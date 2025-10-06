@@ -1,0 +1,6382 @@
+[
+  {
+    "id": "C02P6G3TLMC",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa--morikawa.a--yoko.sugano--yuya.aoyagi--murayama.a-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa @morikawa.a @yoko.sugano @yuya.aoyagi @murayama.a",
+    "memberCount": 7,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C08DK6Z43DW",
+    "name": "mpdm-fujimoto--a.kawata--h.tanbo--morishita--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @fujimoto @a.kawata @h.tanbo @morishita @kouta.ozawa",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02PA9103NH",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa--morikawa.a--yoko.sugano--yuya.aoyagi-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa @morikawa.a @yoko.sugano @yuya.aoyagi",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06AFTAMA6R",
+    "name": "mpdm-konishi--mikami--tomiyama--a-fukushima--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @mikami @tomiyama @a-fukushima @kouta.ozawa",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G012F7ME215",
+    "name": "mpdm-konishi--kouta.ozawa--yoshioka.y--sasamori.t--noguchi-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @konishi @kouta.ozawa @yoshioka.y @sasamori.t @noguchi",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G011U3BB7FX",
+    "name": "mpdm-yuri.hachiyanagi--kouta.ozawa--sae.mikami-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @yuri.hachiyanagi @kouta.ozawa @sae.mikami",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01A8DJMU75",
+    "name": "mpdm-madoka.ito--yoshioka.y--a-tanaka--kouta.ozawa--yoko.sugano-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @madoka.ito @yoshioka.y @a-tanaka @kouta.ozawa @yoko.sugano",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C044NCTMMFY",
+    "name": "mpdm-imamura.m--tadakazu.sato--kobayashi.m--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @imamura.m @tadakazu.sato @kobayashi.m @kouta.ozawa",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01A1FEJUFQ",
+    "name": "mpdm-madoka.ito--yoshioka.y--a-tanaka--kouta.ozawa--yoko.sugano--sae.mikami-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @madoka.ito @yoshioka.y @a-tanaka @kouta.ozawa @yoko.sugano @sae.mikami",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06E7CDNWG3",
+    "name": "mpdm-konishi--takahashi.yu--kouta.ozawa--tomiyama--a-fukushima--kanaya.r--kozawa.y-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @takahashi.yu @kouta.ozawa @tomiyama @a-fukushima @kanaya.r @kozawa.y",
+    "memberCount": 7,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02NYHZ5TF1",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa--morikawa.a--yoko.sugano--yuya.aoyagi--murayama.a--m-tsuruki-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa @morikawa.a @yoko.sugano @yuya.aoyagi @murayama.a @m-tsuruki",
+    "memberCount": 8,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C029L7P0KE1",
+    "name": "mpdm-mikami--miyakawa--sae.mikami--t-takeda--konishi--tomiyama--a-fukushima--kouta.ozawa--kozawa.y-1",
+    "topic": "",
+    "purpose": "Group messaging with: @mikami @miyakawa @sae.mikami @t-takeda @konishi @tomiyama @a-fukushima @kouta.ozawa @kozawa.y",
+    "memberCount": 9,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02RJNL6M6G",
+    "name": "mpdm-nagai--sae.mikami--miyakawa--kouta.ozawa--yoko.sugano--morishita-1",
+    "topic": "",
+    "purpose": "Group messaging with: @nagai @sae.mikami @miyakawa @kouta.ozawa @yoko.sugano @morishita",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C043ZHP5VUN",
+    "name": "mpdm-a-fukushima--sasamoto.m--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @a-fukushima @sasamoto.m @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C04N2853BDK",
+    "name": "mpdm-noguchi--sawai--konishi--kouta.ozawa--mikami-1",
+    "topic": "",
+    "purpose": "Group messaging with: @noguchi @sawai @konishi @kouta.ozawa @mikami",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02PRRTTGP3",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa--morikawa.a--yoko.sugano--yuya.aoyagi--murayama.a--m-tsuruki--a-tanaka-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa @morikawa.a @yoko.sugano @yuya.aoyagi @murayama.a @m-tsuruki @a-tanaka",
+    "memberCount": 9,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G018M72NA3E",
+    "name": "mpdm-kouta.ozawa--noguchi--a-fukushima-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @kouta.ozawa @noguchi @a-fukushima",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "GE2GZ2RQW",
+    "name": "mpdm-hidetake.kanazawa--tomiyama--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @hidetake.kanazawa @tomiyama @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02J78B30DC",
+    "name": "mpdm-hi.re.gz.91--kanaya.r--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @kanaya.r @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06GEUADDSS",
+    "name": "mpdm-hi.re.gz.91--kouta.ozawa--okumura.t-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @kouta.ozawa @okumura.t",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G0145C9T04U",
+    "name": "mpdm-e-takahashi--a-fukushima--konishi--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @e-takahashi @a-fukushima @konishi @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01057VDCF4",
+    "name": "mpdm-a-fukushima--kouta.ozawa--sasamori.t-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @a-fukushima @kouta.ozawa @sasamori.t",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06HAB9QXH6",
+    "name": "mpdm-hi.re.gz.91--kouta.ozawa--okumura.t--hsu.w--konishi--noguchi-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @kouta.ozawa @okumura.t @hsu.w @konishi @noguchi",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "GQCKWQBTL",
+    "name": "mpdm-noguchi--konishi--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @noguchi @konishi @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C04GQHU3L4D",
+    "name": "mpdm-tomiyama--kouta.ozawa--sasamoto.m-1",
+    "topic": "",
+    "purpose": "Group messaging with: @tomiyama @kouta.ozawa @sasamoto.m",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C03GLDMQD3J",
+    "name": "mpdm-itoh.n--yamaura--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @itoh.n @yamaura @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C08J69WKRPC",
+    "name": "mpdm-ueda.h--t-takeda--tadakazu.sato--maeda.n--konishi--takahashi.yu--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @ueda.h @t-takeda @tadakazu.sato @maeda.n @konishi @takahashi.yu @kouta.ozawa",
+    "memberCount": 7,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01DVBTFR5L",
+    "name": "mpdm-madoka.ito--yoshioka.y--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @madoka.ito @yoshioka.y @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G010WHF395G",
+    "name": "mpdm-noguchi--kouta.ozawa--sae.mikami-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @noguchi @kouta.ozawa @sae.mikami",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C09474QPTK4",
+    "name": "mpdm-hi.re.gz.91--tomiyama--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @tomiyama @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06HAB94S48",
+    "name": "mpdm-hi.re.gz.91--kouta.ozawa--okumura.t--hsu.w-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @kouta.ozawa @okumura.t @hsu.w",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06M0T10SLA",
+    "name": "mpdm-konishi--mikami--koza--t-takeda--tomiyama--a-fukushima--kouta.ozawa--takahashi.yu-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @mikami @koza @t-takeda @tomiyama @a-fukushima @kouta.ozawa @takahashi.yu",
+    "memberCount": 8,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C0328K1SYH1",
+    "name": "mpdm-noguchi--mikami--konishi--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @noguchi @mikami @konishi @kouta.ozawa",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C08J3MZ20QM",
+    "name": "mpdm-ueda.h--t-takeda--tadakazu.sato--maeda.n--konishi--takahashi.yu--kouta.ozawa--itoh.n--yamashita.m-1",
+    "topic": "",
+    "purpose": "Group messaging with: @ueda.h @t-takeda @tadakazu.sato @maeda.n @konishi @takahashi.yu @kouta.ozawa @itoh.n @yamashita.m",
+    "memberCount": 9,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C040X65BXGF",
+    "name": "mpdm-kaneta.m--kanaya.r--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kaneta.m @kanaya.r @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G012H0TFZKK",
+    "name": "mpdm-kouta.ozawa--yuri.hachiyanagi--sasamori.t-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @kouta.ozawa @yuri.hachiyanagi @sasamori.t",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01QNFAGHB3",
+    "name": "mpdm-kouta.ozawa--konishi--sasamoto.m-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kouta.ozawa @konishi @sasamoto.m",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "GLBD2BQER",
+    "name": "mpdm-tatsumi--saito--kouta.ozawa--yoko.sugano-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @tatsumi @saito @kouta.ozawa @yoko.sugano",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C07AX5J3GBF",
+    "name": "mpdm-konishi--kouta.ozawa--takahashi.yu--yoshioka.y--sakurai.k--kanaya.r--okumura.t-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @kouta.ozawa @takahashi.yu @yoshioka.y @sakurai.k @kanaya.r @okumura.t",
+    "memberCount": 7,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02P6G3GMHU",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa--morikawa.a--yoko.sugano-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa @morikawa.a @yoko.sugano",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C029579H2P2",
+    "name": "mpdm-konishi--mikami--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @mikami @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06M3AXJB6Y",
+    "name": "mpdm-konishi--mikami--koza--t-takeda--tomiyama--a-fukushima--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @mikami @koza @t-takeda @tomiyama @a-fukushima @kouta.ozawa",
+    "memberCount": 7,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C03BZE7NQMU",
+    "name": "mpdm-konishi--itoh.n--sawai--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @itoh.n @sawai @kouta.ozawa",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01ALRWT1KK",
+    "name": "mpdm-madoka.ito--yoshioka.y--a-tanaka--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @madoka.ito @yoshioka.y @a-tanaka @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02RGF0CBH9",
+    "name": "mpdm-nagai--sae.mikami--miyakawa--kouta.ozawa--yoko.sugano-1",
+    "topic": "",
+    "purpose": "Group messaging with: @nagai @sae.mikami @miyakawa @kouta.ozawa @yoko.sugano",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C07AX5HRSKX",
+    "name": "mpdm-konishi--kouta.ozawa--takahashi.yu--yoshioka.y--sakurai.k--kanaya.r-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @kouta.ozawa @takahashi.yu @yoshioka.y @sakurai.k @kanaya.r",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C029P8PLV26",
+    "name": "mpdm-mikami--miyakawa--sae.mikami--t-takeda--konishi--tomiyama--a-fukushima--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @mikami @miyakawa @sae.mikami @t-takeda @konishi @tomiyama @a-fukushima @kouta.ozawa",
+    "memberCount": 8,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06H079EK7B",
+    "name": "mpdm-hi.re.gz.91--kouta.ozawa--okumura.t--hsu.w--konishi-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @kouta.ozawa @okumura.t @hsu.w @konishi",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C08K24V8LFJ",
+    "name": "mpdm-masashi.yokota--mikami--imamura.m--takahashi.yu--yoshioka.y--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @masashi.yokota @mikami @imamura.m @takahashi.yu @yoshioka.y @kouta.ozawa",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "GPS1KGA2V",
+    "name": "mpdm-namikawa--m-tsuruki--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @namikawa @m-tsuruki @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02PA90HPU5",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C07EMTZ6XTJ",
+    "name": "mpdm-mikami--nakai.a--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @mikami @nakai.a @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06HSTLDPV0",
+    "name": "mpdm-tadakazu.sato--tomiyama--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @tadakazu.sato @tomiyama @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02RDG230NR",
+    "name": "mpdm-nagai--sae.mikami--miyakawa--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @nagai @sae.mikami @miyakawa @kouta.ozawa",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06EL4XRGQH",
+    "name": "mpdm-konishi--takahashi.yu--kouta.ozawa--tomiyama--a-fukushima-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @takahashi.yu @kouta.ozawa @tomiyama @a-fukushima",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G014JUFJT2B",
+    "name": "mpdm-e-takahashi--kouta.ozawa--ichimoto-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @e-takahashi @kouta.ozawa @ichimoto",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C08G9UGB5AQ",
+    "name": "mpdm-r-watanabe--t-takeda--yoneta.k--kouta.ozawa--sakurai.k-1",
+    "topic": "",
+    "purpose": "Group messaging with: @r-watanabe @t-takeda @yoneta.k @kouta.ozawa @sakurai.k",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C07PL4A9D1N",
+    "name": "mpdm-hsu.w--mikami--sasaki472--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hsu.w @mikami @sasaki472 @kouta.ozawa",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C024MG2UDNF",
+    "name": "mpdm-kouta.ozawa--konishi--takahashi.yu-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kouta.ozawa @konishi @takahashi.yu",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01P6UUBE56",
+    "name": "mpdm-morikawa.a--kouta.ozawa--konishi-1",
+    "topic": "",
+    "purpose": "Group messaging with: @morikawa.a @kouta.ozawa @konishi",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02PZFEJV8D",
+    "name": "mpdm-tadakazu.sato--sano--konishi--takahashi.yu--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @tadakazu.sato @sano @konishi @takahashi.yu @kouta.ozawa",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06M0QPEHFD",
+    "name": "mpdm-konishi--tomiyama--a-fukushima--kouta.ozawa--takahashi.yu--yoshioka.y--sakurai.k--kanaya.r--okumura.t-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @tomiyama @a-fukushima @kouta.ozawa @takahashi.yu @yoshioka.y @sakurai.k @kanaya.r @okumura.t",
+    "memberCount": 9,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C064LV01WUC",
+    "name": "mpdm-konishi--kouta.ozawa--tomiyama-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @kouta.ozawa @tomiyama",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02NNS5SC5S",
+    "name": "mpdm-konishi--mikami--kouta.ozawa--tomiyama--a-fukushima--takahashi.yu-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @mikami @kouta.ozawa @tomiyama @a-fukushima @takahashi.yu",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02JQ86SKJR",
+    "name": "mpdm-kouta.ozawa--konishi--kanaya.r-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kouta.ozawa @konishi @kanaya.r",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02PBN6BASG",
+    "name": "mpdm-kasai.t--ito.y--nagayama.k--furuki.y--imamura.m--ichimoto--taneichi.s--konishi--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ito.y @nagayama.k @furuki.y @imamura.m @ichimoto @taneichi.s @konishi @kouta.ozawa",
+    "memberCount": 9,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G012W5WMG91",
+    "name": "mpdm-konishi--kouta.ozawa--yoshioka.y-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @konishi @kouta.ozawa @yoshioka.y",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01DUUY5TH7",
+    "name": "mpdm-sakuma.m--mikami--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @sakuma.m @mikami @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "D018HMLJTCP",
+    "name": "@a-tanaka",
+    "topic": "",
+    "purpose": "DM with 田中 暁乃",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DV8UUV80N",
+    "name": "@sasamori.t",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0308C5RTM4",
+    "name": "@kasai.t",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D05BP8N3XKK",
+    "name": "@nemoto.a",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D03T10YAKNX",
+    "name": "@ashita-cloud",
+    "topic": "",
+    "purpose": "DM with あしたのクラウド",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01N3656Y4F",
+    "name": "@sasamoto.m",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D014YTR2E4X",
+    "name": "@takahashi.y",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01E5S3AGG2",
+    "name": "@mori.h",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DDZ2WJWSV",
+    "name": "@niiyama",
+    "topic": "",
+    "purpose": "DM with 新山 右",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02ENBXDJ9H",
+    "name": "@morishita",
+    "topic": "",
+    "purpose": "DM with 森下 陽介",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D04MM8PUH5K",
+    "name": "@okumura.t",
+    "topic": "",
+    "purpose": "DM with 奥村 拓馬",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02JU3HFDU2",
+    "name": "@backlog",
+    "topic": "",
+    "purpose": "DM with Backlog",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01G7787VJ5",
+    "name": "@fujioka.m",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DHD554BL1",
+    "name": "@tomiyama",
+    "topic": "",
+    "purpose": "DM with 富山 優",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D091JE129JR",
+    "name": "@U082JQ7RVHP",
+    "topic": "",
+    "purpose": "DM with U082JQ7RVHP",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D046VE2U049",
+    "name": "@ueda.m",
+    "topic": "",
+    "purpose": "DM with 植田 美佳",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D06A3E4QP8T",
+    "name": "@onedrive_sharepoint",
+    "topic": "",
+    "purpose": "DM with OneDrive and SharePoint",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D04R998T30V",
+    "name": "@kikuchi.a",
+    "topic": "",
+    "purpose": "DM with 菊池 愛子",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02R1S72QFR",
+    "name": "@nagai",
+    "topic": "",
+    "purpose": "DM with 永井 晟士",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02JDCTTGTH",
+    "name": "@dropbox",
+    "topic": "",
+    "purpose": "DM with Dropbox",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02JU3L8YM9",
+    "name": "@slack_bot_to_google_m",
+    "topic": "",
+    "purpose": "DM with Slack Bot to Google Meet",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D03EAK9DFHD",
+    "name": "@murayama.a",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D084S376PQR",
+    "name": "@kubo.m",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DRY283Q22",
+    "name": "@tomoka.kanayama",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DHR6KNXMY",
+    "name": "@sasaki472",
+    "topic": "",
+    "purpose": "DM with 佐々木 圭介",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DLP9CHN2K",
+    "name": "@hsu.w",
+    "topic": "",
+    "purpose": "DM with 許 維哲",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D020W0F3LD7",
+    "name": "@sakurai.k",
+    "topic": "",
+    "purpose": "DM with 櫻井 一貴",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DHJKK8EKY",
+    "name": "@t-takeda",
+    "topic": "",
+    "purpose": "DM with 竹田 友美",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DLNJ8TG80",
+    "name": "@imae",
+    "topic": "",
+    "purpose": "DM with Seiji Imae",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0728HGKFUK",
+    "name": "@endo.y",
+    "topic": "",
+    "purpose": "DM with 遠藤夕起恵",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02D80X5QG1",
+    "name": "@taneichi.s",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01A36R4YTU",
+    "name": "@takahashi.yu",
+    "topic": "",
+    "purpose": "DM with 髙橋 祐史",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DHFGPSP5H",
+    "name": "@sagawa",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D07M2H0M23U",
+    "name": "@morisaki",
+    "topic": "",
+    "purpose": "DM with 森崎 義啓",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D050CUQJ2KV",
+    "name": "@ito.y",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D06M0PE6PRR",
+    "name": "@toba.a",
+    "topic": "",
+    "purpose": "DM with 鳥羽綾乃",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DH6LRN212",
+    "name": "@koda",
+    "topic": "",
+    "purpose": "DM with Safumin Koda",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D08FCTUDY4X",
+    "name": "@ueda.h",
+    "topic": "",
+    "purpose": "DM with 上田 花香",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0222AHEX9R",
+    "name": "@kanaya.r",
+    "topic": "",
+    "purpose": "DM with 金谷 龍介",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0150LDRMHN",
+    "name": "@google_calendar",
+    "topic": "",
+    "purpose": "DM with Google Calendar",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DD64Y5Y9E",
+    "name": "@takeru.sunami",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D06FQQCMR89",
+    "name": "@wf_bot_a065s320l8y",
+    "topic": "",
+    "purpose": "DM with EG_深夜稼働報告",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01D1JT80CF",
+    "name": "@muroyama.s",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DFNAL7KPB",
+    "name": "@o-sato",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02E640RLMR",
+    "name": "@kaneshima",
+    "topic": "",
+    "purpose": "DM with 金島彩音",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D04UVTJU5U6",
+    "name": "@sugai.m",
+    "topic": "",
+    "purpose": "DM with 須貝 政哉",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DUMGCN6MB",
+    "name": "@nakagawa.y",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D012KUV04UA",
+    "name": "@yoshioka.y",
+    "topic": "",
+    "purpose": "DM with 吉岡 勇希",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01T15N5BR7",
+    "name": "@kishima.m",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DFCPKV64W",
+    "name": "@mikami",
+    "topic": "",
+    "purpose": "DM with 三上 有紀",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01C9MRP8KE",
+    "name": "@sakuma.m",
+    "topic": "",
+    "purpose": "DM with 佐久間 美樹",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DG9QEF3UZ",
+    "name": "@j-abe",
+    "topic": "",
+    "purpose": "DM with 阿部 隼輝",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D012DTJBWJD",
+    "name": "@polly",
+    "topic": "",
+    "purpose": "DM with Polly",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D09DE08MVPW",
+    "name": "@mcp_for_nadia_project",
+    "topic": "",
+    "purpose": "DM with MCP for ozawa kouta",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D011L3WTXJ7",
+    "name": "@a-takahashi",
+    "topic": "",
+    "purpose": "DM with 髙橋 亜季",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D09E8RKDH7Z",
+    "name": "@nagayama.k",
+    "topic": "",
+    "purpose": "DM with 永山 久美子",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D083GBFAKL4",
+    "name": "@jirabot",
+    "topic": "",
+    "purpose": "DM with Jira",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D05NYTEFUQ4",
+    "name": "@takahashi.h",
+    "topic": "",
+    "purpose": "DM with 高橋 媛華",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DN7HTC1E0",
+    "name": "@deactivateduser212483",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DLFBE7L7L",
+    "name": "@tatsumi",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DDWJYSBMJ",
+    "name": "@n-igarashi",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DRZGQEH4N",
+    "name": "@ichimoto",
+    "topic": "",
+    "purpose": "DM with 市本 正史",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DR1U698QL",
+    "name": "@tomoyo.setoguchi",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01NHV4BX6Y",
+    "name": "@imamura.m",
+    "topic": "",
+    "purpose": "DM with 今村 昌人",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DG6N6DXST",
+    "name": "@motoharu.saido",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DF0JVQTR6",
+    "name": "@noguchi",
+    "topic": "",
+    "purpose": "DM with 野口 真希",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DDPLGS55W",
+    "name": "@sae.mikami",
+    "topic": "",
+    "purpose": "DM with 三上 紗永",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02JU3H68UB",
+    "name": "@github2",
+    "topic": "",
+    "purpose": "DM with GitHub",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DJYV0EL1W",
+    "name": "@yoko.sugano",
+    "topic": "",
+    "purpose": "DM with 菅野 陽子",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D079DCEN2RH",
+    "name": "@sapporo.h0000822",
+    "topic": "",
+    "purpose": "DM with ナディア札幌の検証機",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02JB1H87V3",
+    "name": "@hi.re.gz.91",
+    "topic": "",
+    "purpose": "DM with 平尾将之",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DJ4BTNLG7",
+    "name": "@a-murase",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0461G2303S",
+    "name": "@tamura",
+    "topic": "",
+    "purpose": "DM with Takahiro-Tamura",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D03NWJ63AF7",
+    "name": "@adobecreativecloud",
+    "topic": "",
+    "purpose": "DM with Adobe Express",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DF7PPHN90",
+    "name": "@sano",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D06RYK9U316",
+    "name": "@yasuhiro.hidai",
+    "topic": "",
+    "purpose": "DM with 比田井 康宏",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02AYJF0X2N",
+    "name": "@itoh.n",
+    "topic": "",
+    "purpose": "DM with 伊藤 紀彦",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DJ5AG7Y4C",
+    "name": "@toshiyuki.nakamura",
+    "topic": "",
+    "purpose": "DM with 中村 俊之",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D091PFCN3MX",
+    "name": "@igawa.k",
+    "topic": "",
+    "purpose": "DM with 井川 かおり",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D03GSL6K7B2",
+    "name": "@kobitsu.e",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DD2BCPT96",
+    "name": "@kouta.ozawa",
+    "topic": "",
+    "purpose": "DM with 小澤 幸太",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02CEQ7463H",
+    "name": "@ohtawara.t",
+    "topic": "",
+    "purpose": "DM with 大田原 卓也",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DEFQDDMUK",
+    "name": "@y-watanabe",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DDF21K2T1",
+    "name": "@a-fukushima",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D083U9V22KE",
+    "name": "@nakaya.h",
+    "topic": "",
+    "purpose": "DM with 中屋日菜",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D04KGCFK8BW",
+    "name": "@nakai.a",
+    "topic": "",
+    "purpose": "DM with 中井亜耶",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0333C9E0FL",
+    "name": "@tanaka.h",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DKT6Z38HG",
+    "name": "@saito",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01GQF9LZD3",
+    "name": "@e-takahashi",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DK0PN5J7R",
+    "name": "@ogasawara",
+    "topic": "",
+    "purpose": "DM with nadia_小笠原 拓郎",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DDCKCSC2W",
+    "name": "@konishi",
+    "topic": "",
+    "purpose": "DM with 小西 敬貴",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D06577RAQKU",
+    "name": "@wf_bot_a06505e1esh",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DM6F641FU",
+    "name": "@yamashita.m",
+    "topic": "",
+    "purpose": "DM with 山下 真梨絵",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DH4HY959U",
+    "name": "@r-watanabe",
+    "topic": "",
+    "purpose": "DM with 渡辺 利紗",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01DD23CP3L",
+    "name": "@morikawa.a",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DUT0V7W8K",
+    "name": "@deactivateduser70239",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D04G5ANJ85P",
+    "name": "@otsuka.s",
+    "topic": "",
+    "purpose": "DM with 大塚 早紀",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DDG4YUX29",
+    "name": "@okumura",
+    "topic": "",
+    "purpose": "DM with 奥村 哲太",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DE8V4ART5",
+    "name": "@miyakawa",
+    "topic": "",
+    "purpose": "DM with 宮川 雅",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01RAV38ZPS",
+    "name": "@yamaura",
+    "topic": "",
+    "purpose": "DM with 山浦 朋武",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D07BT36TRL2",
+    "name": "@kato.n",
+    "topic": "",
+    "purpose": "DM with 加藤 夏実",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D030Z3PVDDK",
+    "name": "@tsuga.h",
+    "topic": "",
+    "purpose": "DM with 津賀 陽",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01DL4CGU9H",
+    "name": "@kashima.m",
+    "topic": "",
+    "purpose": "DM with 鹿島 真奈美",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DNEH0KRLG",
+    "name": "@sawai",
+    "topic": "",
+    "purpose": "DM with 澤井 鉄平",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DMF00KP7V",
+    "name": "@madoka.ito",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01JSD7JYRW",
+    "name": "@namikawa",
+    "topic": "",
+    "purpose": "DM with 並川 幸久",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D034FV7MF6W",
+    "name": "@kozawa.y",
+    "topic": "",
+    "purpose": "DM with 小澤 優衣",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D08BYV86JTX",
+    "name": "@wf_bot_a083sgv7797",
+    "topic": "",
+    "purpose": "DM with MAP投票",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D04TK9TSQFJ",
+    "name": "@wb_bot_a02tggh4zej",
+    "topic": "",
+    "purpose": "DM with EG_業務終了報告",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D06Q43KDVC5",
+    "name": "@takagi.t",
+    "topic": "",
+    "purpose": "DM with 高木 朋子",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D03RV3R5JR3",
+    "name": "@doi.m",
+    "topic": "",
+    "purpose": "DM with 土井基嗣",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D05BT795BLL",
+    "name": "@miki.inoue",
+    "topic": "",
+    "purpose": "DM with 井上美貴",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D047X224QBG",
+    "name": "@kaneta.m",
+    "topic": "",
+    "purpose": "DM with 金田 桃果",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02S04UCXUZ",
+    "name": "@kubouchi.h",
+    "topic": "",
+    "purpose": "DM with 久保内 大貴",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0136CBJJ4F",
+    "name": "@sakumi.kajimura",
+    "topic": "",
+    "purpose": "DM with 梶村 咲久美",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02RB8669F0",
+    "name": "@ohara.s",
+    "topic": "",
+    "purpose": "DM with 小原 紗恵子",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DD33HMFDG",
+    "name": "@slackbot",
+    "topic": "",
+    "purpose": "DM with Slackbot",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D09254WFEHF",
+    "name": "@hamaguchi.y",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C0610H116RX",
+    "name": "#園芸同好会",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C077WS353M0",
+    "name": "#love_culture",
+    "topic": "",
+    "purpose": "好きなコンテンツ・作品をそれぞれ好き勝手に語り、布教するチャンネルです。",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C096Q6NJK1R",
+    "name": "#ﾌﾟﾛﾏﾈ試験を受けようの会",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01C76QRM36",
+    "name": "#chargespot_to_b",
+    "topic": "",
+    "purpose": "ChargeSPOT toB用LP制作のチャンネルです。",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DF7PPHN90",
+    "name": "@sano",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C0187M76BPC",
+    "name": "#新ﾅﾃﾞｨｱ管理会議",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C026MMP1YHG",
+    "name": "#alpha_plus_ac",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D06RYK9U316",
+    "name": "@yasuhiro.hidai",
+    "topic": "",
+    "purpose": "DM with 比田井 康宏",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02AYJF0X2N",
+    "name": "@itoh.n",
+    "topic": "",
+    "purpose": "DM with 伊藤 紀彦",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DJ5AG7Y4C",
+    "name": "@toshiyuki.nakamura",
+    "topic": "",
+    "purpose": "DM with 中村 俊之",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C08BS2D7T6Z",
+    "name": "#日本語rap同好会",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D091PFCN3MX",
+    "name": "@igawa.k",
+    "topic": "",
+    "purpose": "DM with 井川 かおり",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D03GSL6K7B2",
+    "name": "@kobitsu.e",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DD2BCPT96",
+    "name": "@kouta.ozawa",
+    "topic": "",
+    "purpose": "DM with 小澤 幸太",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01HZK3J0AZ",
+    "name": "#tokyo_eg_server",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01LNE00WKB",
+    "name": "#種市のための各種媒体資料など",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02DQ8CTNTC",
+    "name": "#uchubiz-coding",
+    "topic": "",
+    "purpose": "UchuBizサイトのコーディング専用チャンネルになります。",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D02CEQ7463H",
+    "name": "@ohtawara.t",
+    "topic": "",
+    "purpose": "DM with 大田原 卓也",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DEFQDDMUK",
+    "name": "@y-watanabe",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DDF21K2T1",
+    "name": "@a-fukushima",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C07SV340ALV",
+    "name": "#eg-acf",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D083U9V22KE",
+    "name": "@nakaya.h",
+    "topic": "",
+    "purpose": "DM with 中屋日菜",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D04KGCFK8BW",
+    "name": "@nakai.a",
+    "topic": "",
+    "purpose": "DM with 中井亜耶",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0333C9E0FL",
+    "name": "@tanaka.h",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DKT6Z38HG",
+    "name": "@saito",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C09G215L334",
+    "name": "#in_assign_採用ﾊﾟﾝﾌﾚｯﾄ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06SAST6FFD",
+    "name": "#times_ichimoto",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D01GQF9LZD3",
+    "name": "@e-takahashi",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DK0PN5J7R",
+    "name": "@ogasawara",
+    "topic": "",
+    "purpose": "DM with nadia_小笠原 拓郎",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01BDPG1EMT",
+    "name": "#rakuten_miyagi",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02EPC2D92T",
+    "name": "#lalaport_cp",
+    "topic": "■あどぽ\n【4332】ららぽーと様_SNS運用（Twitter/Facebook/Instagram）_4月度運用分",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C052DSMSVNJ",
+    "name": "#times_kubo-chi",
+    "topic": "",
+    "purpose": "EG久保内のtimesです。",
+    "memberCount": 17,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DDCKCSC2W",
+    "name": "@konishi",
+    "topic": "",
+    "purpose": "DM with 小西 敬貴",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D06577RAQKU",
+    "name": "@wf_bot_a06505e1esh",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DM6F641FU",
+    "name": "@yamashita.m",
+    "topic": "",
+    "purpose": "DM with 山下 真梨絵",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DH4HY959U",
+    "name": "@r-watanabe",
+    "topic": "",
+    "purpose": "DM with 渡辺 利紗",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01DD23CP3L",
+    "name": "@morikawa.a",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "CV9DPNN20",
+    "name": "#shift_ｴﾈｵｽ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01JPVCENTV",
+    "name": "#lala_backlog",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C062W905UCS",
+    "name": "#times_dj_inoue",
+    "topic": "DJ井上が仕事中のBGMを紹介したり、その時々のあれこれをお届けしたりしなかったりするかもしれないチャンネルです。\nどなた様もご自由にご参加ください。",
+    "purpose": "強気な発信を心がけます。\nデーモンの召喚は守備表示にします。",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02SEHUFYS0",
+    "name": "#議事録_飲食部門会議_nachura",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DUT0V7W8K",
+    "name": "@deactivateduser70239",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C06A3EMJGG3",
+    "name": "#profile-book-pj",
+    "topic": "",
+    "purpose": "nadia profile book 改修プロジェクトのチャンネル",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04LAM1M6CQ",
+    "name": "#ds-pino",
+    "topic": ":ice_pino: 壁打ち相談の場（仮）",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05TAT11BEK",
+    "name": "#times_akiyama",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D04G5ANJ85P",
+    "name": "@otsuka.s",
+    "topic": "",
+    "purpose": "DM with 大塚 早紀",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DDG4YUX29",
+    "name": "@okumura",
+    "topic": "",
+    "purpose": "DM with 奥村 哲太",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C014P0CLZTL",
+    "name": "#sanwaservice",
+    "topic": "",
+    "purpose": "三和サービス",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01H8EWFC4V",
+    "name": "#adkms_orix_design",
+    "topic": "❚backlog\n\u003chttps://nadia.backlog.jp/projects/ORIX_DESIGN\u003e",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06PRD9BA6B",
+    "name": "#03_pj_meti_design-archives",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DE8V4ART5",
+    "name": "@miyakawa",
+    "topic": "",
+    "purpose": "DM with 宮川 雅",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C0584STM71U",
+    "name": "#times_yoneta",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 22,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09CRNLT8CB",
+    "name": "#250901-corpとgm",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D01RAV38ZPS",
+    "name": "@yamaura",
+    "topic": "",
+    "purpose": "DM with 山浦 朋武",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D07BT36TRL2",
+    "name": "@kato.n",
+    "topic": "",
+    "purpose": "DM with 加藤 夏実",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C07MWCMP5RR",
+    "name": "#ﾗｰﾒﾝを楽しむ会",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D030Z3PVDDK",
+    "name": "@tsuga.h",
+    "topic": "",
+    "purpose": "DM with 津賀 陽",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C016VEM7VDG",
+    "name": "#epg-zoom申請",
+    "topic": "▼EPGアカウント\nID：epg@nadia.bz\nPW：ESz2HMgn",
+    "purpose": "有料zoom使用の際の報告チャンネルです",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01C4P51SS0",
+    "name": "#mobilefactory",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01ET94M04E",
+    "name": "#varione",
+    "topic": "案件No.4224",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02BXVBQ7G9",
+    "name": "#jaccw_carenin",
+    "topic": "",
+    "purpose": "\u003chttp://www.jaccw.or.jp/special/care_movie_2021/|www.jaccw.or.jp/special/care_movie_2021/\u003e\t本番環境用\n\u003chttps://jaccw.pmjt.net/special/care_movie_2021/\u003e\tDEV環境用\n\u003chttp://jaccw.or.jp|jaccw.or.jp\u003e\t\tリダイレクト用\n\n※本ドメインはディレクトリ：www.jaccw.or.jp...",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D01DL4CGU9H",
+    "name": "@kashima.m",
+    "topic": "",
+    "purpose": "DM with 鹿島 真奈美",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DNEH0KRLG",
+    "name": "@sawai",
+    "topic": "",
+    "purpose": "DM with 澤井 鉄平",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DMF00KP7V",
+    "name": "@madoka.ito",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C06DZ802LAV",
+    "name": "#ｱｳﾄﾄﾞｱ部",
+    "topic": "4月 ラフティング（定山渓）\n7月 キャンプ・BBQ・SUP（支笏湖）\n9月 サバゲー・BBQ（札幌西区）\n1月 ワカサギ釣り（石狩）",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07SV9M7NTW",
+    "name": "#share-nadia-parallel",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08A6017SMS",
+    "name": "#0000_niwa-pr-server",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D01JSD7JYRW",
+    "name": "@namikawa",
+    "topic": "",
+    "purpose": "DM with 並川 幸久",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C0124LN8DS6",
+    "name": "#dgm_board請求対応相談窓口",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C064K3ZHLJW",
+    "name": "#eg-blender",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08FJSJM7M5",
+    "name": "#ｸﾘｴｲﾃｨﾌﾞﾊﾞﾝｸ様_nadia",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08SP05SF6X",
+    "name": "#ｻﾄﾕｷさん専用_日報andなんでも質問ﾁｬﾝﾈﾙ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D034FV7MF6W",
+    "name": "@kozawa.y",
+    "topic": "",
+    "purpose": "DM with 小澤 優衣",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D08BYV86JTX",
+    "name": "@wf_bot_a083sgv7797",
+    "topic": "",
+    "purpose": "DM with MAP投票",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01A74R9WQN",
+    "name": "#maruchan-projapan",
+    "topic": "▼スケジュール\n\u003chttps://docs.google.com/spreadsheets/d/1somCvFUoEKgG4UaqGNImTI_Njrn9f9EA0YzrNxvUOkQ/edit#gid=1163857259\u003e",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C080NST3J3S",
+    "name": "#sapporo-stock",
+    "topic": "「札幌オフィス運用」シート \u0026gt; 「備品リスト」タブの在庫数が一定数以下になると通知するチャンネル\n※2024.11.8現在準備中",
+    "purpose": "",
+    "memberCount": 30,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D04TK9TSQFJ",
+    "name": "@wb_bot_a02tggh4zej",
+    "topic": "",
+    "purpose": "DM with EG_業務終了報告",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C05PRLXCJAV",
+    "name": "#times_yuiit",
+    "topic": "",
+    "purpose": "名字をとっても名前をとっても誰かとかぶる人",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D06Q43KDVC5",
+    "name": "@takagi.t",
+    "topic": "",
+    "purpose": "DM with 高木 朋子",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D03RV3R5JR3",
+    "name": "@doi.m",
+    "topic": "",
+    "purpose": "DM with 土井基嗣",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C011ASAHDPH",
+    "name": "#三井ﾎｰﾑ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01505VKCLC",
+    "name": "#fe_skillsheet",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01FNKRJ4P7",
+    "name": "#recruitment_shooting",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07EQMEDVE0",
+    "name": "#club_chiikawa",
+    "topic": "非公認ちいかわ同好会です。",
+    "purpose": "非公認ちいかわ同好会です。\n非公認なので自腹です。\nグッズの交換したり、ちいかわの話したり、時には一緒にコラボカフェ行ったりわいわいしましょう！",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C021NDE52US",
+    "name": "#kotodaman_2021june_shamanking",
+    "topic": "▼仕様書\n\u003chttps://xfl.ag/3sCs8KX\u003e",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C014DMFR9MZ",
+    "name": "#ﾌﾟﾚｾﾞﾝﾄ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05GWL7LEHJ",
+    "name": "#times_nakamu",
+    "topic": "",
+    "purpose": "【最低限のルール】\n- ワークスペースには社外の人間も出入りするケースがあるので、案件の秘匿情報は投稿しない\n- 誹謗中傷や批判など、他人が見て嫌な気持ちになりそうな投稿はしない\n- あくまで「個人の呟き」なので、レスがあることを前提としない(=誰かのレスが必要な内容は、今まで通り然るべきチャンネルで扱う)\n- 酩酊状態で投稿しない",
+    "memberCount": 21,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01EJQ12YHX",
+    "name": "#private-keep-in-touch-with-xbs",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C014H7D3BEG",
+    "name": "#cox_ec_site",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01PUR6MV6Y",
+    "name": "#bikkuri_donkey_website",
+    "topic": "▼スケジュール：\u003chttps://bit.ly/3l8Njlz\u003e\n▼LP課題：\u003chttps://nadia.backlog.jp/view/ALEPH_2016-138\u003e\n▼バナー課題：\u003chttps://nadia.backlog.jp/view/ALEPH_2016-139\u003e",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C9JBRQAV6",
+    "name": "#kaizen_nadia",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07SMS6RSG1",
+    "name": "#b5g_d1_deepsea",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D05BT795BLL",
+    "name": "@miki.inoue",
+    "topic": "",
+    "purpose": "DM with 井上美貴",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D047X224QBG",
+    "name": "@kaneta.m",
+    "topic": "",
+    "purpose": "DM with 金田 桃果",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02S04UCXUZ",
+    "name": "@kubouchi.h",
+    "topic": "",
+    "purpose": "DM with 久保内 大貴",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0136CBJJ4F",
+    "name": "@sakumi.kajimura",
+    "topic": "",
+    "purpose": "DM with 梶村 咲久美",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C02CGNH2B4Z",
+    "name": "#uchubiz-design",
+    "topic": "",
+    "purpose": "UchuBizサイトのデザイン（社内用）です。",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C059T6YFT1V",
+    "name": "#times_rikako",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 14,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D02RB8669F0",
+    "name": "@ohara.s",
+    "topic": "",
+    "purpose": "DM with 小原 紗恵子",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C04EMMQF1U5",
+    "name": "#ｿﾌﾄﾊﾞﾝｸ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DD33HMFDG",
+    "name": "@slackbot",
+    "topic": "",
+    "purpose": "DM with Slackbot",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01CCUM923G",
+    "name": "#種市の種市による種市のためのﾁｬﾝﾈﾙ",
+    "topic": "やってみせ言って聞かせてさせてみせ、誉めてやらねば人は動かじ。\n話し合い、耳を傾け承認し任せてやらねば人は育たず。\nやっている姿を感謝で見守って、信頼せねば、人は実らず。",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D09254WFEHF",
+    "name": "@hamaguchi.y",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C0165U5C42C",
+    "name": "#ﾋﾟｭｱｾﾗﾐﾄﾞ_ｴｼｶﾙlp制作",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01TC1LEUBU",
+    "name": "#lala_summer_bargain",
+    "topic": "案件No.3376\n案件名：【株式会社博報堂プロダクツ】ららぽーと_夏バーゲンLP制作\n\n案件No.3698\n案件名：【株式会社博報堂プロダクツ】ららぽーと_夏バーゲンLP_更新対応費",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0269J5CR2S",
+    "name": "#chargespot_paypay_ds",
+    "topic": "【3734】ChargeSPOT X PayPay キャンペーンLP制作",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02CG078KMH",
+    "name": "#wacul_marubun_ds",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C075V2U3DRB",
+    "name": "#times_igawa",
+    "topic": "",
+    "purpose": "EGHの井川のtimesです。\n有益な情報はあまりないかもしれません！ごめんなさい！",
+    "memberCount": 16,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C013SK26W5V",
+    "name": "#ja三井ﾘｰｽ",
+    "topic": "URL：\n\u003chttps://www.medit.jp/\u003e",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01D15L5BGC",
+    "name": "#yamamoto_zakka",
+    "topic": "",
+    "purpose": "山本洋品雑貨様案件用チャンネル",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03HCPR7L31",
+    "name": "#ffbi_lp",
+    "topic": "あどぽ\n　5605 印刷サービス訴求キャンペーン用LP制作",
+    "purpose": "ffbi＝富士フイルムビジネスイノベーション\n富士フイルムビジネスイノベーション様より、同人作家に向けたオンデマンド印刷機の利用促進キャンペーンPJのLP制作のご相談。",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C052Y6W1SGG",
+    "name": "#times_mikami",
+    "topic": "",
+    "purpose": "僕による僕のためのチャンネルです",
+    "memberCount": 33,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C015PKWNZQ8",
+    "name": "#akerun_backlog",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02AYD4Q4CX",
+    "name": "#cestmoi-rn-coding",
+    "topic": "",
+    "purpose": "セモアリニューアル(202109)案件でのハイブリッジさん連絡ようです。",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C090L0Z1WG6",
+    "name": "#飲兵衛同好会",
+    "topic": "酒呑み同士の、美味しいお酒やおつまみの情報共有用チャンネルです。",
+    "purpose": "",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02G44ACE00",
+    "name": "#auras_cfn",
+    "topic": "",
+    "purpose": "アウラ　CFN",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04GTAAJ4DQ",
+    "name": "#times_yossy",
+    "topic": "",
+    "purpose": "よしはらのいろんなメモ\nすぐ忘れるので考えていることの整理→ポエム",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01911M196Y",
+    "name": "#dearliy_corporate",
+    "topic": "Backlog\n\u003chttps://nadia.backlog.jp/projects/DEARLIY\u003e",
+    "purpose": "dearliy様corporate用LP制作",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D018HMLJTCP",
+    "name": "@a-tanaka",
+    "topic": "",
+    "purpose": "DM with 田中 暁乃",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DV8UUV80N",
+    "name": "@sasamori.t",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0308C5RTM4",
+    "name": "@kasai.t",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C07MDFUUXCY",
+    "name": "#times_toba",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C080J31FSTF",
+    "name": "#eg-gasお試し",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D05BP8N3XKK",
+    "name": "@nemoto.a",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D03T10YAKNX",
+    "name": "@ashita-cloud",
+    "topic": "",
+    "purpose": "DM with あしたのクラウド",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01N3656Y4F",
+    "name": "@sasamoto.m",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D014YTR2E4X",
+    "name": "@takahashi.y",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01E5S3AGG2",
+    "name": "@mori.h",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DDZ2WJWSV",
+    "name": "@niiyama",
+    "topic": "",
+    "purpose": "DM with 新山 右",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01V0H5752Q",
+    "name": "#adkms_nomurahd_sustainable",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D02ENBXDJ9H",
+    "name": "@morishita",
+    "topic": "",
+    "purpose": "DM with 森下 陽介",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C05U9E2L203",
+    "name": "#times_tomiyama",
+    "topic": "",
+    "purpose": "こんにちは！",
+    "memberCount": 17,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C017BTM7RCH",
+    "name": "#sanwa_service",
+    "topic": "",
+    "purpose": "三和サービス",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D04MM8PUH5K",
+    "name": "@okumura.t",
+    "topic": "",
+    "purpose": "DM with 奥村 拓馬",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02JU3HFDU2",
+    "name": "@backlog",
+    "topic": "",
+    "purpose": "DM with Backlog",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C0609QNDMPH",
+    "name": "#study_figma",
+    "topic": "Figmaに関する情報や活用について共有する場所",
+    "purpose": "Figmaに関するチャネルです！\n最新情報・技術共有など、どんどん投稿していきましょう！\n知見を蓄える場に。",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D01G7787VJ5",
+    "name": "@fujioka.m",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DHD554BL1",
+    "name": "@tomiyama",
+    "topic": "",
+    "purpose": "DM with 富山 優",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C04G47W6JVC",
+    "name": "#times_ebi",
+    "topic": "",
+    "purpose": "エビが大好物なんすよ",
+    "memberCount": 21,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C052M5KPL1F",
+    "name": "#times_makiest",
+    "topic": "",
+    "purpose": "のぐちのにちじょう",
+    "memberCount": 20,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08B1CP8SSG",
+    "name": "#shift-support-公共ﾎﾟｰﾀﾙｻｲﾄ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D091JE129JR",
+    "name": "@U082JQ7RVHP",
+    "topic": "",
+    "purpose": "DM with U082JQ7RVHP",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D046VE2U049",
+    "name": "@ueda.m",
+    "topic": "",
+    "purpose": "DM with 植田 美佳",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01B3869E22",
+    "name": "#kakehashi_hrring",
+    "topic": "■backlog\n\u003chttps://nadia.backlog.jp/view/KAKEHASHISS-15\u003e",
+    "purpose": "▼Backlog\n\u003chttps://nadia.backlog.jp/view/KAKEHASHISS-18\u003e\n\n案件No. 3628\n案件名：カケハシSS様 プロダクトサイト_改修対応（HRring）",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01U8NNF6GK",
+    "name": "#lala_gw_snscampaign",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04MECZCY6M",
+    "name": "#times_maeda-maeda",
+    "topic": "Twitter(X)",
+    "purpose": "",
+    "memberCount": 19,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C062TEDPTE1",
+    "name": "#times_mc_kasai",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07KTLE8X2S",
+    "name": "#eg-accessibility",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D06A3E4QP8T",
+    "name": "@onedrive_sharepoint",
+    "topic": "",
+    "purpose": "DM with OneDrive and SharePoint",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C016F2M6F26",
+    "name": "#standup_web",
+    "topic": "▼スケジュール\n\u003chttps://docs.google.com/spreadsheets/d/1v9atrKNkpBjYEuhizyFPepKXVH6jjHHsdJItS0-MDak/edit#gid=1978994242\u003e\n\n▼ドライブ\n\u003chttps://drive.google.com/drive/folders/1N-hT28LsnYDkmSNaX9-amZz-3tPb6Wka\u003e",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0164MPM4G7",
+    "name": "#ﾌﾞﾙｰﾍﾞﾘｰｱｲpro_fv制作",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D04R998T30V",
+    "name": "@kikuchi.a",
+    "topic": "",
+    "purpose": "DM with 菊池 愛子",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C016JK1KP6Y",
+    "name": "#hitorioya-spirits",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03QYQPEFGA",
+    "name": "#chargespot_sej202209",
+    "topic": "",
+    "purpose": "Chargespot セブンイレブンコラボCP（202209スタート）",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C052G6NB9CH",
+    "name": "#sre",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D02R1S72QFR",
+    "name": "@nagai",
+    "topic": "",
+    "purpose": "DM with 永井 晟士",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C02BK0Y0ZT4",
+    "name": "#times_fm",
+    "topic": "Twitter",
+    "purpose": "つぶやきと知見集積",
+    "memberCount": 22,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02H8B4UV8E",
+    "name": "#wacul_kankocho_lp_fe",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C052TN3TL1M",
+    "name": "#times_akaike",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C052Z4LQ2QZ",
+    "name": "#times_nakai",
+    "topic": "ただのメモ",
+    "purpose": "とり天1つください。",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08GVM1S2KS",
+    "name": "#ex-nadia-rokkolp",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D02JDCTTGTH",
+    "name": "@dropbox",
+    "topic": "",
+    "purpose": "DM with Dropbox",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C027XHJR938",
+    "name": "#jaccw_taikailp",
+    "topic": "",
+    "purpose": "\u003chttps://drive.google.com/drive/folders/1eUir-X8eEt2ahX95bBkVinF-McNvdTRS\u003e",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05RW9BM725",
+    "name": "#times_yoshimura",
+    "topic": "",
+    "purpose": "はじめはんぶん。PMGよしむらのtimesです！",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D02JU3L8YM9",
+    "name": "@slack_bot_to_google_m",
+    "topic": "",
+    "purpose": "DM with Slack Bot to Google Meet",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C04FW3H0SS3",
+    "name": "#times_yokota",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 23,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C090W1MCJLV",
+    "name": "#eg-ai",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D03EAK9DFHD",
+    "name": "@murayama.a",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C06Q55TNGN9",
+    "name": "#figma相談",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01M5FP3ZRP",
+    "name": "#ib_dainichi_見積",
+    "topic": "▼試算表\n\u003chttps://docs.google.com/spreadsheets/d/1APt-nmxO3SwTquM5zAmeNFbZQoc6PABY/edit#gid=451166868\u003e",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C052XHWTQBW",
+    "name": "#times_kurihara",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07PZLKB65R",
+    "name": "#young2025",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0161V1CY4F",
+    "name": "#dc_わかさ生活ｱﾝｹｰﾄlp制作",
+    "topic": "",
+    "purpose": "ブルーベリーアイのLP制作です。\n▼商品\n\u003chttps://shop.wakasa.jp/blueberryeye/products/blueberryeye\u003e\n\n▼アンケートLP例\n\u003chttps://shop.wakasa.jp/np/pr/blueberryeyepro_02/blueberryeyepro_enq_woman/\u003e",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C051FFCAKPG",
+    "name": "#times_konishi",
+    "topic": "",
+    "purpose": "D / Engineer・小西のtimesチャンネルです。",
+    "memberCount": 33,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06FTPZ0YAZ",
+    "name": "#times_tetsunoshin",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06HDMG7DGB",
+    "name": "#eg-mt",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C094K6V3Z39",
+    "name": "#knowledge_shere-lounge",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D084S376PQR",
+    "name": "@kubo.m",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01JDBM7VB7",
+    "name": "#1_edpu_directors",
+    "topic": "",
+    "purpose": "EDPUディレクターのグループです。",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C084E1EEDL2",
+    "name": "#feed_3dcg",
+    "topic": "3DCGやWebGL系のRSSを流すだけのChannel",
+    "purpose": "",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0531M9FK39",
+    "name": "#times_sugai",
+    "topic": "",
+    "purpose": "基礎的な技術のメモに使用\n日々のエラーやミスについて投稿したりもします",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C075BFF8N4W",
+    "name": "#kaneta_test_ﾜｰｸﾌﾛｰ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09BY4PUWF6",
+    "name": "#seo_channel",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0221PRNECR",
+    "name": "#honda_cars",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05ECRK06AK",
+    "name": "#times_aiko",
+    "topic": "",
+    "purpose": "どうも、EGの福島です！\n（見る専とか言ってたのに結局作り出す）\n（たまに勉強、たまにプライベート）",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DRY283Q22",
+    "name": "@tomoka.kanayama",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01QNGGH6RX",
+    "name": "#jaccw_pamphlet",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0950DY5ACC",
+    "name": "#tldv-channel",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C023VBPAMTJ",
+    "name": "#えびちゃん案件",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07LMRP9CAH",
+    "name": "#times_morisaki",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 8,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DHR6KNXMY",
+    "name": "@sasaki472",
+    "topic": "",
+    "purpose": "DM with 佐々木 圭介",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01J9LUNQG6",
+    "name": "#soukenkun",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0545FPBN3Y",
+    "name": "#slack-notification-sample",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0557V24UGL",
+    "name": "#times_himeka",
+    "topic": "",
+    "purpose": "ゆるゆる無益ちゃんねる（つぶやき＆日常）",
+    "memberCount": 19,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DLP9CHN2K",
+    "name": "@hsu.w",
+    "topic": "",
+    "purpose": "DM with 許 維哲",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01TNPYSGJZ",
+    "name": "#chargespot_d_ds",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D020W0F3LD7",
+    "name": "@sakurai.k",
+    "topic": "",
+    "purpose": "DM with 櫻井 一貴",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DHJKK8EKY",
+    "name": "@t-takeda",
+    "topic": "",
+    "purpose": "DM with 竹田 友美",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01J6S47QSU",
+    "name": "#種市のﾒﾓﾁｬﾝﾈﾙ",
+    "topic": "❚ ちょっとしたMTG用\n\u003chttp://meet.google.com/soc-aajb-mjt\u003e",
+    "purpose": "種市のメモ集",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C068U411SBY",
+    "name": "#切り抜き",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01JGGJD6M8",
+    "name": "#dc_わかさ生活_翠力玉ｱﾝｹｰﾄlp制作",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DLNJ8TG80",
+    "name": "@imae",
+    "topic": "",
+    "purpose": "DM with Seiji Imae",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C0860M8FZC6",
+    "name": "#club_gummy",
+    "topic": "グミ大好きクラブ",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D0728HGKFUK",
+    "name": "@endo.y",
+    "topic": "",
+    "purpose": "DM with 遠藤夕起恵",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D02D80X5QG1",
+    "name": "@taneichi.s",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D01A36R4YTU",
+    "name": "@takahashi.yu",
+    "topic": "",
+    "purpose": "DM with 髙橋 祐史",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DHFGPSP5H",
+    "name": "@sagawa",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D07M2H0M23U",
+    "name": "@morisaki",
+    "topic": "",
+    "purpose": "DM with 森崎 義啓",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "CUXN3HCD9",
+    "name": "#tableau_ｾｿﾞﾝ情報",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C017HEG0PL3",
+    "name": "#flipdesk_paa",
+    "topic": "Flipdeskバナー制作依頼\nクライアント：プレミアアンチエイジング様\n\u003chttps://drive.google.com/drive/folders/1QHlmP54RswpPe7G-wVV7VzPEIzhQ3_43?usp=sharing\u003e",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C019PGPK884",
+    "name": "#mikeneko-id",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02EJS1GWHK",
+    "name": "#ﾃﾞｻﾞｲﾅｰ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02HPDK7YKS",
+    "name": "#toyota_kurumarche",
+    "topic": "\u003chttps://nadia.backlog.jp/projects/SPTM_KURUMARCHE\u003e",
+    "purpose": "TOYOTA KURUMARCHE",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D050CUQJ2KV",
+    "name": "@ito.y",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C015L6V5NAK",
+    "name": "#junproducts-orionbeer",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0167473U23",
+    "name": "#fd_aflac",
+    "topic": "",
+    "purpose": "Flipdesk使用aflack様制作チャンネル",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06BAE7EBGR",
+    "name": "#times_arakawa",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0198CS29RU",
+    "name": "#asakatsu",
+    "topic": "",
+    "purpose": "読売新聞　北海道　朝活",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C062WGZSZ8W",
+    "name": "#reception_配送",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 13,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C053WFK07FU",
+    "name": "#times_t-takeda",
+    "topic": "",
+    "purpose": "私のChannelです。仕事の話案件の話それに関連する有益な情報はありません。概ね日本語の曲しか聞きません。",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C085GF3FXFS",
+    "name": "#times_kubota_h",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D06M0PE6PRR",
+    "name": "@toba.a",
+    "topic": "",
+    "purpose": "DM with 鳥羽綾乃",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DH6LRN212",
+    "name": "@koda",
+    "topic": "",
+    "purpose": "DM with Safumin Koda",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C0136UN1ERG",
+    "name": "#fd_ccj",
+    "topic": "\u003chttps://www.c-c-j.com/\u003e",
+    "purpose": "Flipdesk依頼キャリアカレッジジャパン様用チャンネル",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C018WAKAJJY",
+    "name": "#adk_otsukahd_siterenewal",
+    "topic": "■資料格納先\n\u003chttps://drive.google.com/drive/folders/1LgtGJ4qTY5XcWwoZUxMNQLDGVIR3CMI8?usp=sharing\u003e",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D08FCTUDY4X",
+    "name": "@ueda.h",
+    "topic": "",
+    "purpose": "DM with 上田 花香",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0222AHEX9R",
+    "name": "@kanaya.r",
+    "topic": "",
+    "purpose": "DM with 金谷 龍介",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0150LDRMHN",
+    "name": "@google_calendar",
+    "topic": "",
+    "purpose": "DM with Google Calendar",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C015A5Y1JUX",
+    "name": "#dc_fracora大人の一粒週間",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C059J8EP3RB",
+    "name": "#times_kashima",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07MM6BSU2Z",
+    "name": "#club_pokemon_and_more-games",
+    "topic": "",
+    "purpose": "非公認ポケモン・ゲーム同好会です。\nゲームだったりアニメだったり推しキャラクターなどのお話ができる場所です。\n情報交換だったり、タイミングあったらレイド参戦とかの通信もできたらいいなぁという展望があります。",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C010826F4A2",
+    "name": "#private-shared-with-decem",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0179DLBGKS",
+    "name": "#smeta_ds",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DD64Y5Y9E",
+    "name": "@takeru.sunami",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C08NATLB8RH",
+    "name": "#元nakeds",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C026C54PNT1",
+    "name": "#nadia-website_design",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07S96DV75G",
+    "name": "#b5g_d1_sports",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D06FQQCMR89",
+    "name": "@wf_bot_a065s320l8y",
+    "topic": "",
+    "purpose": "DM with EG_深夜稼働報告",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C05RAPRHPFD",
+    "name": "#times_ogataku",
+    "topic": "MAKE MONE¥, THEMSELVE$.",
+    "purpose": "オジサンのつぶやき＆雑なアウトプット／インプット",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D01D1JT80CF",
+    "name": "@muroyama.s",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C091HQMMSKH",
+    "name": "#nadia_parent",
+    "topic": "",
+    "purpose": "・単純に仲良くなりたい、ランチいきませんか？\n・おさがりの共有とかできたらです。\n・時短勤務や早上がりで夜の参加ができないママ達の交流の場にできたらです。",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DFNAL7KPB",
+    "name": "@o-sato",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01FUV3PM5H",
+    "name": "#lala_年末年始挨拶",
+    "topic": "あどぽ：4628 ららぽーと様_年末年始挨拶PDF＆バナー制作",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0119PW14UT",
+    "name": "#ybs_ｻｰﾊﾞ管理",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01687NHN00",
+    "name": "#京都きもの友禅_ﾌﾟﾚ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07RUKN3AA3",
+    "name": "#b5g_d1_orchestorator",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D02E640RLMR",
+    "name": "@kaneshima",
+    "topic": "",
+    "purpose": "DM with 金島彩音",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C036XDDB2TE",
+    "name": "#alh_all",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04SWKZ9K4N",
+    "name": "#times_suzu",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04V0FCM553",
+    "name": "#pr_ss-update-notification",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05K6GJS1PC",
+    "name": "#reception",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 14,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D04UVTJU5U6",
+    "name": "@sugai.m",
+    "topic": "",
+    "purpose": "DM with 須貝 政哉",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DUMGCN6MB",
+    "name": "@nakagawa.y",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01GNA107HA",
+    "name": "#edpu_dsg-dairiten",
+    "topic": "",
+    "purpose": "EDPUチームへの相談チャンネル",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02Q8UCHVDY",
+    "name": "#nakagatest",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05RHLPT1KK",
+    "name": "#times_nemoto",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 15,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D012KUV04UA",
+    "name": "@yoshioka.y",
+    "topic": "",
+    "purpose": "DM with 吉岡 勇希",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01J3546PCN",
+    "name": "#doshin-sc",
+    "topic": "",
+    "purpose": "道新サービスセンター",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C08M3HNH78A",
+    "name": "#英会話ｽﾋﾟｰｷﾝｸﾞｼｽﾃﾑ_nadia",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D01T15N5BR7",
+    "name": "@kishima.m",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DFCPKV64W",
+    "name": "@mikami",
+    "topic": "",
+    "purpose": "DM with 三上 有紀",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C02HGQM5H18",
+    "name": "#auras_caritus",
+    "topic": "【4305】　【株式会社アウラ】　キャリタス　オリジナル画面制作",
+    "purpose": "キャリタス",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C045YLZUNMR",
+    "name": "#adk_大江戸温泉_温泉ﾍﾟｰｼﾞ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05M0CP6CH1",
+    "name": "#times_hirao",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07B18W4FT4",
+    "name": "#in_ﾍﾞﾈｯｾ_ﾐﾗｲｼｰﾄﾞ_ｸﾗｽﾙｰﾑ連携",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D01C9MRP8KE",
+    "name": "@sakuma.m",
+    "topic": "",
+    "purpose": "DM with 佐久間 美樹",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DG9QEF3UZ",
+    "name": "@j-abe",
+    "topic": "",
+    "purpose": "DM with 阿部 隼輝",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C02607S3Y3T",
+    "name": "#kakehashi_hrring_lp",
+    "topic": "",
+    "purpose": "▼Backlog\n\u003chttps://nadia.backlog.jp/view/KAKEHASHISS-20\u003e\n\n案件No. 3697\n案件名：カケハシSS様 プロダクトサイト_追加LP制作（HRring内定者フォロー）",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D012DTJBWJD",
+    "name": "@polly",
+    "topic": "",
+    "purpose": "DM with Polly",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C012B1D8KFA",
+    "name": "#shhift_ｴﾝﾀﾒ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01ENFJND0U",
+    "name": "#topcon_positioning_asia",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0155085FLK",
+    "name": "#ﾌﾟﾚｼｰﾄﾞｼﾞｬﾊﾟﾝ",
+    "topic": "\u003chttps://shop.aviot.jp/\u003e\n\n【管理画面】\n\u003chttps://aviotstore.admin.future-shop.net/FutureShop2/Login.htm\u003e\n\n【アカウント１】\n店舗KEY：aviotstore\nアカウント名：Nadia\nユーザー名：Nadia_user\nパスワード5EtRtUc8U-h$\n\n【アカウント２】\n店舗KEY：aviotstore\nアカウント名：Nadia2\nユーザー名：Nadia_user2\nパスワード：n8fFRi3c|v_V",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09EVH07S9Y",
+    "name": "#おしりのﾁｹｯﾄat-923札幌",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01DMARSS72",
+    "name": "#nadia_contact",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C081TFLM51P",
+    "name": "#duo_knowledge-share",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01CTPPV5JQ",
+    "name": "#incraft",
+    "topic": "",
+    "purpose": "代理店インクラフト案件です",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D09DE08MVPW",
+    "name": "@mcp_for_nadia_project",
+    "topic": "",
+    "purpose": "DM with MCP for ozawa kouta",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D011L3WTXJ7",
+    "name": "@a-takahashi",
+    "topic": "",
+    "purpose": "DM with 髙橋 亜季",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C012JSKE7PE",
+    "name": "#nexway",
+    "topic": "■backlog\n\u003chttps://nadia.backlog.jp/projects/NEXWAY\u003e",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01QBBHPG2D",
+    "name": "#jaccw_data入力",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C025G853J90",
+    "name": "#f-group",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D09E8RKDH7Z",
+    "name": "@nagayama.k",
+    "topic": "",
+    "purpose": "DM with 永山 久美子",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C0766SL0V4G",
+    "name": "#iij_web-gp-ds",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02EQR2E3MJ",
+    "name": "#chargespot_seven_fe",
+    "topic": "",
+    "purpose": "【4049】ChargeSPOT X セブンイレブン キャンペーンLP制作\nBacklog：\u003chttps://nadia.backlog.jp/view/INFO_CS_LP-11\u003e",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04M1SBP83C",
+    "name": "#times_tawara",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 17,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C053K4VU8U8",
+    "name": "#times_fuse",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 12,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07KFU4LDFG",
+    "name": "#times_ohara",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D083GBFAKL4",
+    "name": "@jirabot",
+    "topic": "",
+    "purpose": "DM with Jira",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D05NYTEFUQ4",
+    "name": "@takahashi.h",
+    "topic": "",
+    "purpose": "DM with 高橋 媛華",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DN7HTC1E0",
+    "name": "@deactivateduser212483",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DLFBE7L7L",
+    "name": "@tatsumi",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01H0HT1J85",
+    "name": "#sappro_new_ds",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02E03217PD",
+    "name": "#b-team",
+    "topic": "",
+    "purpose": "NBEC 2021 -ビズ拡コンペ2021",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C052P45JVJQ",
+    "name": "#times_sakurai",
+    "topic": "",
+    "purpose": "無益なことだけ",
+    "memberCount": 19,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04GF3F7KLJ",
+    "name": "#times_kondo",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C05S01ABJ3E",
+    "name": "#knowledge_eg-nakai",
+    "topic": "",
+    "purpose": "EG中井のナレッジ置き場です。（エラー/ネタ/記録....）\nSlackAppの実験をする可能性もあります。",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06AYDQMWCT",
+    "name": "#times_okumura_t",
+    "topic": "",
+    "purpose": "技術備忘録\n目標は２日に一投稿。欲しい情報を検索して探すと吉。",
+    "memberCount": 10,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06BKS4C99A",
+    "name": "#workshop_fy24",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C085KRZVDMG",
+    "name": "#club_shinjukugyoen",
+    "topic": "新宿御苑大好きクラブ:deciduous_tree:",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07AYC2CCH3",
+    "name": "#in_ﾍﾞﾈｯｾ_ﾐﾗｲｼｰﾄﾞ_子どもｶﾙﾃ",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0104K5NWV6",
+    "name": "#adk-hokkaido",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01P0TTKGSK",
+    "name": "#yusukin_hana_brand",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DDWJYSBMJ",
+    "name": "@n-igarashi",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DRZGQEH4N",
+    "name": "@ichimoto",
+    "topic": "",
+    "purpose": "DM with 市本 正史",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C0130QMSRKR",
+    "name": "#yamazen_nadia-pat",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C014AM9RJMV",
+    "name": "#mytask",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01F2JN0MDY",
+    "name": "#ambition",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02SUKU0KLZ",
+    "name": "#tanita_thousandsmiles_",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01DNQ4DT7D",
+    "name": "#usen_bnr",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C032Y3Y1RNJ",
+    "name": "#darts",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C015ZHZKNCX",
+    "name": "#ｼﾌﾄ経営管理部mtg",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06T03BJLBA",
+    "name": "#times_ishida",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DR1U698QL",
+    "name": "@tomoyo.setoguchi",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C011WGUTCFJ",
+    "name": "#ysg_kdi",
+    "topic": "",
+    "purpose": "KDIの案件はこちら",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C075UM78CLV",
+    "name": "#eg-arc_dia",
+    "topic": "新感覚のブラウザ [Arc](\u003chttps://arc.net/\u003e) の、疑問解消・活用法共有のためのチャンネルです。\nひとまずパブリックにしているので、案件由来の情報などは投下しないようご注意ください。",
+    "purpose": "",
+    "memberCount": 9,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D01NHV4BX6Y",
+    "name": "@imamura.m",
+    "topic": "",
+    "purpose": "DM with 今村 昌人",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C0138SNC7DL",
+    "name": "#remote-test-kit_and_windows10",
+    "topic": "ID : nadiabz / PW : 2022nadia",
+    "purpose": "検証端末のレンタルの開始されると通知されます",
+    "memberCount": 37,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C017QLGR3E1",
+    "name": "#dc_fracora_stemsell記事lp制作",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C09B23FT6NT",
+    "name": "#sapporo-food_仮",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C021MMHN23D",
+    "name": "#bizval_banner",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0195SCKNG2",
+    "name": "#tsumugu_三井不動産",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04GD2F8HPW",
+    "name": "#times_zenzai",
+    "topic": "",
+    "purpose": "ぜんざいは出雲発祥らしい?",
+    "memberCount": 14,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C06KE5PUHM4",
+    "name": "#times_nakaya",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0152MGBX28",
+    "name": "#naruse_kagu",
+    "topic": "",
+    "purpose": "ナルセ家具",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02F0B3HT6V",
+    "name": "#wacul_kankocho_lp_ds",
+    "topic": "",
+    "purpose": "【4084】官公庁プロモーション　ADLP施策LP制作",
+    "memberCount": 3,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DG6N6DXST",
+    "name": "@motoharu.saido",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DF0JVQTR6",
+    "name": "@noguchi",
+    "topic": "",
+    "purpose": "DM with 野口 真希",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "DDPLGS55W",
+    "name": "@sae.mikami",
+    "topic": "",
+    "purpose": "DM with 三上 紗永",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C07U9HZH34Z",
+    "name": "#club_monster-hunter",
+    "topic": "一狩り行くチャンネル:crossed_swords:",
+    "purpose": "",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D02JU3H68UB",
+    "name": "@github2",
+    "topic": "",
+    "purpose": "DM with GitHub",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01CQR06EGK",
+    "name": "#idemitsu_app_ds",
+    "topic": ":gd: \u003chttps://bit.ly/2IqW0bF\u003e",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C04V2QG804S",
+    "name": "#assign-sheet_request",
+    "topic": "新アサインシート改善要望チャンネル",
+    "purpose": "新アサインシートの改善要望はこちらまでどうぞ",
+    "memberCount": 17,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DJYV0EL1W",
+    "name": "@yoko.sugano",
+    "topic": "",
+    "purpose": "DM with 菅野 陽子",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01RY1GKNKZ",
+    "name": "#rasora_sapporo",
+    "topic": "\u003chttps://rasora-sapporo.com/wp/wp-admin/\u003e\nrasora_admin\nZVelM7Ry\u0026amp;LEuESfG",
+    "purpose": "ラソラ札幌",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D079DCEN2RH",
+    "name": "@sapporo.h0000822",
+    "topic": "",
+    "purpose": "DM with ナディア札幌の検証機",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01N56M1KFA",
+    "name": "#pierre-marcolini-design",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C01TD0PKZ5Z",
+    "name": "#lala_top",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C03R001Q3PD",
+    "name": "#le-trois_ｽﾃｰﾀｽﾁｪｯｶｰ",
+    "topic": "",
+    "purpose": "ル・トロワサイトの死活監視（HTTPSレスポンス自動チェック）1日２回（0:00〜／12:00〜）",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C07D6504VFV",
+    "name": "#sapporo-検証機",
+    "topic": "※iOS のパスコードは「123456」 ※チャンネルはミュートを推奨",
+    "purpose": "",
+    "memberCount": 28,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D02JB1H87V3",
+    "name": "@hi.re.gz.91",
+    "topic": "",
+    "purpose": "DM with 平尾将之",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C04LV962UES",
+    "name": "#times_j-abe",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 27,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "DJ4BTNLG7",
+    "name": "@a-murase",
+    "topic": "",
+    "purpose": "DM with ",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "D0461G2303S",
+    "name": "@tamura",
+    "topic": "",
+    "purpose": "DM with Takahiro-Tamura",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C01SU7M0FSB",
+    "name": "#bd_2021sscolection_banner",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C052P326ZJQ",
+    "name": "#times_かなや",
+    "topic": "",
+    "purpose": "いったんお酒を飲もう",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C0830FSQS5A",
+    "name": "#eg-react",
+    "topic": "",
+    "purpose": "react / next...の色々雑談・質問・相談?の広場",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "D03NWJ63AF7",
+    "name": "@adobecreativecloud",
+    "topic": "",
+    "purpose": "DM with Adobe Express",
+    "memberCount": 2,
+    "mpim": false,
+    "im": true,
+    "private": false
+  },
+  {
+    "id": "C02HCN2CATW",
+    "name": "#yukio_tonosora_ins",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C051WSHCYKV",
+    "name": "#eg-gas",
+    "topic": "GAS製作所（参加自由・呟き自問自答・ネタ投稿..全てOK）",
+    "purpose": "GAS制作色々",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": false
+  },
+  {
+    "id": "C02RGF0CBH9",
+    "name": "mpdm-nagai--sae.mikami--miyakawa--kouta.ozawa--yoko.sugano-1",
+    "topic": "",
+    "purpose": "Group messaging with: @nagai @sae.mikami @miyakawa @kouta.ozawa @yoko.sugano",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C07AX5HRSKX",
+    "name": "mpdm-konishi--kouta.ozawa--takahashi.yu--yoshioka.y--sakurai.k--kanaya.r-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @kouta.ozawa @takahashi.yu @yoshioka.y @sakurai.k @kanaya.r",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C029P8PLV26",
+    "name": "mpdm-mikami--miyakawa--sae.mikami--t-takeda--konishi--tomiyama--a-fukushima--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @mikami @miyakawa @sae.mikami @t-takeda @konishi @tomiyama @a-fukushima @kouta.ozawa",
+    "memberCount": 8,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06H079EK7B",
+    "name": "mpdm-hi.re.gz.91--kouta.ozawa--okumura.t--hsu.w--konishi-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @kouta.ozawa @okumura.t @hsu.w @konishi",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C08K24V8LFJ",
+    "name": "mpdm-masashi.yokota--mikami--imamura.m--takahashi.yu--yoshioka.y--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @masashi.yokota @mikami @imamura.m @takahashi.yu @yoshioka.y @kouta.ozawa",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G0142D8H9RB",
+    "name": "#eg-help",
+    "topic": ":fe: #help\n:meet:\u003chttps://meet.google.com/sig-tsdk-pmr\u003e\n:bulb:解決した内容や結果はスレッドに残しましょう",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "GPS1KGA2V",
+    "name": "mpdm-namikawa--m-tsuruki--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @namikawa @m-tsuruki @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01L9NAE1QT",
+    "name": "#eg-random",
+    "topic": "glow roots :deciduous_tree:",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02PA90HPU5",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C07EMTZ6XTJ",
+    "name": "mpdm-mikami--nakai.a--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @mikami @nakai.a @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C014WS6R3KN",
+    "name": "#nichicon_corporate",
+    "topic": "▼Drive\n\u003chttps://drive.google.com/drive/folders/1Evu6c3AQRxEwQjakRKSsB8Hoo3WmNJLi\u003e\n\n▼Backlog\n\u003chttps://nadia.backlog.jp/alias/wiki/1075134523\u003e\n\n▼wiki: リニューアル(wordpress 等)\n\u003chttps://nadia.backlog.jp/alias/wiki/1075195015\u003e",
+    "purpose": "ニチコン 2021-22年対応リニューアル用Channel\n\n▼リニューアル\n案件No. 1864\n案件名：コーポレートサイトリニューアル\n\n▼運用 ※2022年4月分\n案件No.5204\n案件名：ニチコン様コーポレートサイトコンテンツ運用・保守（2022年4月）",
+    "memberCount": 34,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C078XRJH31C",
+    "name": "#gst_nadia-valleyin",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06HSTLDPV0",
+    "name": "mpdm-tadakazu.sato--tomiyama--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @tadakazu.sato @tomiyama @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C01ES25EASD",
+    "name": "#tocad",
+    "topic": "dev（開発）\n[Basic 認証}\nnadia / grw4jt0gfs\n\n管理画面 dev（開発）\nID : tocad\nPWD : VVeF^clWoIswKKjVPJ",
+    "purpose": ":spreadsheet: \u003chttps://bit.ly/3q6ET0k\u003e\n:backlog: \u003chttps://nadia.backlog.jp/projects/TOCAD\u003e\n\ndev（開発）\n\u003chttps://dev-co-jp.tocad.info\u003e\n[Basic 認証}\nnadia / grw4jt0gfs\n\n管理画面 dev（開発）\n\u003chttps://dev-co-jp.tocad.info/wp-admin/\u003e\nID : tocad\nPWD : VVeF^clWoIswKKjVPJ",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "CGY94JBU4",
+    "name": "#nichicon_operation",
+    "topic": "▼ニチコン_index\n\u003chttps://tinyurl.com/yab6tzgm\u003e\n▼ニチコン関連Channelルール\n\u003chttps://tinyurl.com/29drrqze\u003e\n▼運用レポート\n\u003chttps://tinyurl.com/y7j2pjkk\u003e\n▼リニューアル(WP) ログイン情報\n\u003chttps://nadia.backlog.jp/alias/wiki/1075195015\u003e",
+    "purpose": "ニチコン 運用用Channel\n#2400353 ニチコン様コーポレートサイトコンテンツ運用・保守（2025年8月）",
+    "memberCount": 18,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02K5SUR6AF",
+    "name": "#mock-up",
+    "topic": "",
+    "purpose": "コーディングのモックアップを作成",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02RDG230NR",
+    "name": "mpdm-nagai--sae.mikami--miyakawa--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @nagai @sae.mikami @miyakawa @kouta.ozawa",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06EL4XRGQH",
+    "name": "mpdm-konishi--takahashi.yu--kouta.ozawa--tomiyama--a-fukushima-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @takahashi.yu @kouta.ozawa @tomiyama @a-fukushima",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G014JUFJT2B",
+    "name": "mpdm-e-takahashi--kouta.ozawa--ichimoto-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @e-takahashi @kouta.ozawa @ichimoto",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C08G9UGB5AQ",
+    "name": "mpdm-r-watanabe--t-takeda--yoneta.k--kouta.ozawa--sakurai.k-1",
+    "topic": "",
+    "purpose": "Group messaging with: @r-watanabe @t-takeda @yoneta.k @kouta.ozawa @sakurai.k",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02JWAQMVU4",
+    "name": "#favorite_website",
+    "topic": "",
+    "purpose": "気になったサイトをストック",
+    "memberCount": 1,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C07PL4A9D1N",
+    "name": "mpdm-hsu.w--mikami--sasaki472--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hsu.w @mikami @sasaki472 @kouta.ozawa",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C09DEUA8NTA",
+    "name": "#d-attendance",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 25,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C024MG2UDNF",
+    "name": "mpdm-kouta.ozawa--konishi--takahashi.yu-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kouta.ozawa @konishi @takahashi.yu",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01P6UUBE56",
+    "name": "mpdm-morikawa.a--kouta.ozawa--konishi-1",
+    "topic": "",
+    "purpose": "Group messaging with: @morikawa.a @kouta.ozawa @konishi",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C045R4XDPUZ",
+    "name": "#qiita",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C0455TY31E2",
+    "name": "#zenn",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 2,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02PZFEJV8D",
+    "name": "mpdm-tadakazu.sato--sano--konishi--takahashi.yu--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @tadakazu.sato @sano @konishi @takahashi.yu @kouta.ozawa",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06M0QPEHFD",
+    "name": "mpdm-konishi--tomiyama--a-fukushima--kouta.ozawa--takahashi.yu--yoshioka.y--sakurai.k--kanaya.r--okumura.t-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @tomiyama @a-fukushima @kouta.ozawa @takahashi.yu @yoshioka.y @sakurai.k @kanaya.r @okumura.t",
+    "memberCount": 9,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C064LV01WUC",
+    "name": "mpdm-konishi--kouta.ozawa--tomiyama-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @kouta.ozawa @tomiyama",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02NNS5SC5S",
+    "name": "mpdm-konishi--mikami--kouta.ozawa--tomiyama--a-fukushima--takahashi.yu-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @mikami @kouta.ozawa @tomiyama @a-fukushima @takahashi.yu",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02JQ86SKJR",
+    "name": "mpdm-kouta.ozawa--konishi--kanaya.r-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kouta.ozawa @konishi @kanaya.r",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02PBN6BASG",
+    "name": "mpdm-kasai.t--ito.y--nagayama.k--furuki.y--imamura.m--ichimoto--taneichi.s--konishi--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ito.y @nagayama.k @furuki.y @imamura.m @ichimoto @taneichi.s @konishi @kouta.ozawa",
+    "memberCount": 9,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G012W5WMG91",
+    "name": "mpdm-konishi--kouta.ozawa--yoshioka.y-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @konishi @kouta.ozawa @yoshioka.y",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01DUUY5TH7",
+    "name": "mpdm-sakuma.m--mikami--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @sakuma.m @mikami @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02P6G3TLMC",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa--morikawa.a--yoko.sugano--yuya.aoyagi--murayama.a-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa @morikawa.a @yoko.sugano @yuya.aoyagi @murayama.a",
+    "memberCount": 7,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C08DK6Z43DW",
+    "name": "mpdm-fujimoto--a.kawata--h.tanbo--morishita--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @fujimoto @a.kawata @h.tanbo @morishita @kouta.ozawa",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C070LTMU2V6",
+    "name": "#納品報告",
+    "topic": "",
+    "purpose": "●インシデント・アクシデントを発生させないために、メンバー人ひとりが納品責任を持つことを目的に、納品事実を共有するためのチェンネル。\n●案件の大小に関係なく、納品したら担当プロデューサー及びディレクターが必ず報告する。\n●報告事項は、担当者名、納品URL・画像など納品物がわかるものを貼付、納品日、公開日、クライアント名、チェックシート。",
+    "memberCount": 110,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02PA9103NH",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa--morikawa.a--yoko.sugano--yuya.aoyagi-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa @morikawa.a @yoko.sugano @yuya.aoyagi",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06AFTAMA6R",
+    "name": "mpdm-konishi--mikami--tomiyama--a-fukushima--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @mikami @tomiyama @a-fukushima @kouta.ozawa",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01DMF07JSU",
+    "name": "#kakehashi_ｺｰﾎﾟﾚｰﾄｻｲﾄﾘﾆｭｰｱﾙ",
+    "topic": "あどぽ\n案件NO：6684\n案件名：コーポレートサイト改修（1月度）\n\nプロジェクトシート：\n\u003chttps://docs.google.com/spreadsheets/d/1pT1IAi-ycTHo9x1KEibl6svWITPxaN3CJk2UaDjzvb4/edit?usp=sharing\u003e\n　\nBL：\n\u003chttps://nadia.backlog.jp/projects/KAKEHASHI_SKYSOL_RENEWAL\u003e",
+    "purpose": "エンジニアさんへ連絡事項\n\u003chttps://nadia.backlog.jp/alias/wiki/1075377550\u003e",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G012F7ME215",
+    "name": "mpdm-konishi--kouta.ozawa--yoshioka.y--sasamori.t--noguchi-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @konishi @kouta.ozawa @yoshioka.y @sasamori.t @noguchi",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C09CN4X6CMC",
+    "name": "#d-random",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 22,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G011U3BB7FX",
+    "name": "mpdm-yuri.hachiyanagi--kouta.ozawa--sae.mikami-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @yuri.hachiyanagi @kouta.ozawa @sae.mikami",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01A8DJMU75",
+    "name": "mpdm-madoka.ito--yoshioka.y--a-tanaka--kouta.ozawa--yoko.sugano-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @madoka.ito @yoshioka.y @a-tanaka @kouta.ozawa @yoko.sugano",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C015G587P8C",
+    "name": "#nadia-general",
+    "topic": "",
+    "purpose": "ナディア正社員のみ対象のチャンネルです。\n\n全体へのお知らせ（@here）\n各拠点へのお知らせ（@sapporo、@tokyo、@kyoto）",
+    "memberCount": 119,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G013P2MSCF9",
+    "name": "#eg-sapporo",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C044NCTMMFY",
+    "name": "mpdm-imamura.m--tadakazu.sato--kobayashi.m--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @imamura.m @tadakazu.sato @kobayashi.m @kouta.ozawa",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01A1FEJUFQ",
+    "name": "mpdm-madoka.ito--yoshioka.y--a-tanaka--kouta.ozawa--yoko.sugano--sae.mikami-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @madoka.ito @yoshioka.y @a-tanaka @kouta.ozawa @yoko.sugano @sae.mikami",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06E7CDNWG3",
+    "name": "mpdm-konishi--takahashi.yu--kouta.ozawa--tomiyama--a-fukushima--kanaya.r--kozawa.y-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @takahashi.yu @kouta.ozawa @tomiyama @a-fukushima @kanaya.r @kozawa.y",
+    "memberCount": 7,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02NYHZ5TF1",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa--morikawa.a--yoko.sugano--yuya.aoyagi--murayama.a--m-tsuruki-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa @morikawa.a @yoko.sugano @yuya.aoyagi @murayama.a @m-tsuruki",
+    "memberCount": 8,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C029L7P0KE1",
+    "name": "mpdm-mikami--miyakawa--sae.mikami--t-takeda--konishi--tomiyama--a-fukushima--kouta.ozawa--kozawa.y-1",
+    "topic": "",
+    "purpose": "Group messaging with: @mikami @miyakawa @sae.mikami @t-takeda @konishi @tomiyama @a-fukushima @kouta.ozawa @kozawa.y",
+    "memberCount": 9,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02RJNL6M6G",
+    "name": "mpdm-nagai--sae.mikami--miyakawa--kouta.ozawa--yoko.sugano--morishita-1",
+    "topic": "",
+    "purpose": "Group messaging with: @nagai @sae.mikami @miyakawa @kouta.ozawa @yoko.sugano @morishita",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C043ZHP5VUN",
+    "name": "mpdm-a-fukushima--sasamoto.m--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @a-fukushima @sasamoto.m @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C077RTLT8DQ",
+    "name": "#sapporo-boys",
+    "topic": "主にトイレ掃除のやり取りをするためのチャンネルです",
+    "purpose": "",
+    "memberCount": 11,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C04N2853BDK",
+    "name": "mpdm-noguchi--sawai--konishi--kouta.ozawa--mikami-1",
+    "topic": "",
+    "purpose": "Group messaging with: @noguchi @sawai @konishi @kouta.ozawa @mikami",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C01V2DHG3FS",
+    "name": "#eg-技術相談_ﾌﾛﾝﾄ",
+    "topic": "★★★必ず「回答期日」を最初に明記してください★★★\n技術的相談や工数算出依頼など。\nメンション： \u003c!subteam^SGK531344\u003e でご連絡ください。",
+    "purpose": "",
+    "memberCount": 74,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02PRRTTGP3",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa--morikawa.a--yoko.sugano--yuya.aoyagi--murayama.a--m-tsuruki--a-tanaka-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa @morikawa.a @yoko.sugano @yuya.aoyagi @murayama.a @m-tsuruki @a-tanaka",
+    "memberCount": 9,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02HZ8WJW68",
+    "name": "#nadia-xbs",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 119,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G018M72NA3E",
+    "name": "mpdm-kouta.ozawa--noguchi--a-fukushima-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @kouta.ozawa @noguchi @a-fukushima",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "GE2GZ2RQW",
+    "name": "mpdm-hidetake.kanazawa--tomiyama--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @hidetake.kanazawa @tomiyama @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02J78B30DC",
+    "name": "mpdm-hi.re.gz.91--kanaya.r--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @kanaya.r @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06GEUADDSS",
+    "name": "mpdm-hi.re.gz.91--kouta.ozawa--okumura.t-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @kouta.ozawa @okumura.t",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C066D2F5M1P",
+    "name": "#private-pj-大塚商会-mock",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 16,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G012UPP2TQF",
+    "name": "#creative-div",
+    "topic": "雑談OK！クリエイティブdivでトレンド・技術を共有しましょう。",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C09D0S7MZ3K",
+    "name": "#d-all",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 23,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G0145C9T04U",
+    "name": "mpdm-e-takahashi--a-fukushima--konishi--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @e-takahashi @a-fukushima @konishi @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01057VDCF4",
+    "name": "mpdm-a-fukushima--kouta.ozawa--sasamori.t-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @a-fukushima @kouta.ozawa @sasamori.t",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06HAB9QXH6",
+    "name": "mpdm-hi.re.gz.91--kouta.ozawa--okumura.t--hsu.w--konishi--noguchi-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @kouta.ozawa @okumura.t @hsu.w @konishi @noguchi",
+    "memberCount": 6,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "GQCKWQBTL",
+    "name": "mpdm-noguchi--konishi--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @noguchi @konishi @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C04GQHU3L4D",
+    "name": "mpdm-tomiyama--kouta.ozawa--sasamoto.m-1",
+    "topic": "",
+    "purpose": "Group messaging with: @tomiyama @kouta.ozawa @sasamoto.m",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C01J8PQ78QK",
+    "name": "#gst_nadia",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 17,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "GGE0LTG5D",
+    "name": "#assign",
+    "topic": "アサインシートの改善要望は\u003c#C04V2QG804S|\u003e までどうぞ\n▼メンションルール\nディレクター    ：\u003c!subteam^S01J3AQRNCB\u003e\nデザイナー        ：\u003c!subteam^SGJJW97UZ\u003e\nエンジニア　　：\u003c!subteam^SGK531344\u003e\n動画・イラスト：\u003c!subteam^S01LASENXCN\u003e",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C03GLDMQD3J",
+    "name": "mpdm-itoh.n--yamaura--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @itoh.n @yamaura @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C083R219Z6V",
+    "name": "#kakehashi_eg",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C08J69WKRPC",
+    "name": "mpdm-ueda.h--t-takeda--tadakazu.sato--maeda.n--konishi--takahashi.yu--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @ueda.h @t-takeda @tadakazu.sato @maeda.n @konishi @takahashi.yu @kouta.ozawa",
+    "memberCount": 7,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01DVBTFR5L",
+    "name": "mpdm-madoka.ito--yoshioka.y--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @madoka.ito @yoshioka.y @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G013P2LFVE3",
+    "name": "#eg-assign",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G010WHF395G",
+    "name": "mpdm-noguchi--kouta.ozawa--sae.mikami-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @noguchi @kouta.ozawa @sae.mikami",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06NVLW8ZK8",
+    "name": "#yosonavi-web-banner_eg",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 4,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C065RJ5URK7",
+    "name": "#otsuka-shokai_社内",
+    "topic": "2500347 大塚商会 Webからの新規顧客獲得PJ支援（2025年9月）",
+    "purpose": "",
+    "memberCount": 25,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01K06MNYMT",
+    "name": "#sapporo-members",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 0,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C09474QPTK4",
+    "name": "mpdm-hi.re.gz.91--tomiyama--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @tomiyama @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C016J22EPA8",
+    "name": "#kakehashi_研修ｻｰﾋﾞｽ_ｻｲﾄ制作",
+    "topic": "",
+    "purpose": "案件No.：6202\n案件名：研修サイト_改修対応費（10月対応分）",
+    "memberCount": 7,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06HAB94S48",
+    "name": "mpdm-hi.re.gz.91--kouta.ozawa--okumura.t--hsu.w-1",
+    "topic": "",
+    "purpose": "Group messaging with: @hi.re.gz.91 @kouta.ozawa @okumura.t @hsu.w",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06M0T10SLA",
+    "name": "mpdm-konishi--mikami--koza--t-takeda--tomiyama--a-fukushima--kouta.ozawa--takahashi.yu-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @mikami @koza @t-takeda @tomiyama @a-fukushima @kouta.ozawa @takahashi.yu",
+    "memberCount": 8,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06H0H2BTLH",
+    "name": "#sapporo-random",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 30,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C09752G1M1C",
+    "name": "#otsuka-shokai_社内_eg",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 5,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C0328K1SYH1",
+    "name": "mpdm-noguchi--mikami--konishi--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @noguchi @mikami @konishi @kouta.ozawa",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C05GGHE6UU8",
+    "name": "#eiken_ｳｪﾌﾞ運用",
+    "topic": "9085_【日本英語検定協会】ディレクション業務委託費（’25年2月分）\n9086_【日本英語検定協会】ディレクション業務委託費（’25年3月分）\n10064_【日本英語検定協会】2024年度第3回3月分_休日対応費",
+    "purpose": "",
+    "memberCount": 19,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C08J3MZ20QM",
+    "name": "mpdm-ueda.h--t-takeda--tadakazu.sato--maeda.n--konishi--takahashi.yu--kouta.ozawa--itoh.n--yamashita.m-1",
+    "topic": "",
+    "purpose": "Group messaging with: @ueda.h @t-takeda @tadakazu.sato @maeda.n @konishi @takahashi.yu @kouta.ozawa @itoh.n @yamashita.m",
+    "memberCount": 9,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C040X65BXGF",
+    "name": "mpdm-kaneta.m--kanaya.r--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kaneta.m @kanaya.r @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G012H0TFZKK",
+    "name": "mpdm-kouta.ozawa--yuri.hachiyanagi--sasamori.t-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @kouta.ozawa @yuri.hachiyanagi @sasamori.t",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01QNFAGHB3",
+    "name": "mpdm-kouta.ozawa--konishi--sasamoto.m-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kouta.ozawa @konishi @sasamoto.m",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "GLBD2BQER",
+    "name": "mpdm-tatsumi--saito--kouta.ozawa--yoko.sugano-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @tatsumi @saito @kouta.ozawa @yoko.sugano",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C07AX5J3GBF",
+    "name": "mpdm-konishi--kouta.ozawa--takahashi.yu--yoshioka.y--sakurai.k--kanaya.r--okumura.t-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @kouta.ozawa @takahashi.yu @yoshioka.y @sakurai.k @kanaya.r @okumura.t",
+    "memberCount": 7,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C02P6G3GMHU",
+    "name": "mpdm-kasai.t--ichimoto--kouta.ozawa--morikawa.a--yoko.sugano-1",
+    "topic": "",
+    "purpose": "Group messaging with: @kasai.t @ichimoto @kouta.ozawa @morikawa.a @yoko.sugano",
+    "memberCount": 5,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C029579H2P2",
+    "name": "mpdm-konishi--mikami--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @mikami @kouta.ozawa",
+    "memberCount": 3,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C07KBP35P96",
+    "name": "#eg-mikami-unit",
+    "topic": "",
+    "purpose": "",
+    "memberCount": 6,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C06M3AXJB6Y",
+    "name": "mpdm-konishi--mikami--koza--t-takeda--tomiyama--a-fukushima--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @mikami @koza @t-takeda @tomiyama @a-fukushima @kouta.ozawa",
+    "memberCount": 7,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C01TARMH6E8",
+    "name": "#nax-cafe",
+    "topic": "",
+    "purpose": "「息抜きにちょっとカフェ」イメージのフランクなコミュニケーションの場です。ナディアとxbsの頭文字を取って「Nax‐Cafe」としました。",
+    "memberCount": 121,
+    "mpim": false,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "C03BZE7NQMU",
+    "name": "mpdm-konishi--itoh.n--sawai--kouta.ozawa-1",
+    "topic": "",
+    "purpose": "Group messaging with: @konishi @itoh.n @sawai @kouta.ozawa",
+    "memberCount": 4,
+    "mpim": true,
+    "im": false,
+    "private": true
+  },
+  {
+    "id": "G01ALRWT1KK",
+    "name": "mpdm-madoka.ito--yoshioka.y--a-tanaka--kouta.ozawa-1",
+    "topic": "グループメッセージング",
+    "purpose": ": とグループメッセージ中 @madoka.ito @yoshioka.y @a-tanaka @kouta.ozawa",
+    "memberCount": 0,
+    "mpim": true,
+    "im": false,
+    "private": true
+  }
+]
