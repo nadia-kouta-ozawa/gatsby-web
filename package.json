@@ -7,7 +7,9 @@
 		"dev": "gatsby develop",
 		"start": "gatsby develop",
 		"build": "gatsby build",
+		"build:htdocs": "gatsby build --prefix-paths && node scripts/build-htdocs.js",
 		"serve": "gatsby serve",
+		"serve:htdocs": "npx serve htdocs -p 8080",
 		"clean": "gatsby clean",
 		"type-check": "tsc --noEmit"
 	},

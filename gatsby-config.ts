@@ -7,6 +7,8 @@ const config: GatsbyConfig = {
     author: `@kouta-ozawa`,
     siteUrl: `https://your-domain.com`,
   },
+  pathPrefix: `/htdocs`,
+  assetPrefix: `/_assets`,
   graphqlTypegen: true,
   plugins: [
     `gatsby-plugin-typescript`,
