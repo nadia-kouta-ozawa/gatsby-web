@@ -91,9 +91,24 @@ This project implements a structured knowledge management approach as documented
 - Organize GraphQL queries in page components
 - Separate utility functions into dedicated modules
 
+## Current Project Status
+
+**Warning**: This project is in pre-initialization phase. Before starting development:
+1. Run Gatsby initialization commands from the Setup section above
+2. Verify `package.json` has proper Gatsby dependencies (currently only has Claude Code)
+3. Create basic Gatsby project structure (`src/`, `static/`, etc.)
+
 ## Technical Constraints
 
 - Modern browsers only (no IE11)
 - Static site generation for performance
 - Performance optimization is priority
 - Japanese content support required
+
+## Important Reminders
+
+- Always use `pnpm` as the package manager (not npm or yarn)
+- Follow the knowledge management system documented in README.md
+- Use `/init` command at session start to sync context
+- Record issues in debug logs with file references (e.g., `src/pages/blog.tsx:25`)
+- Update knowledge files after completing features
