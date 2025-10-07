@@ -142,7 +142,7 @@ const IndexPage: React.FC<PageProps> = () => {
       <h1 style={headingStyles}> Kota Ozawa
         Congratulations
         <br />
-        <span style={headingAccentStyles}>— portfolio website with assets/js! 🎯📁</span>
+        <span style={headingAccentStyles}>— portfolio with organized assets! ⚡📦</span>
       </h1>
       <p style={paragraphStyles}>
         Edit <code style={codeStyles}>src/pages/index.tsx</code> to see this page

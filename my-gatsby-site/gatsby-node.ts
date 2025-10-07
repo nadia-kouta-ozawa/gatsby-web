@@ -1,47 +1,67 @@
 import type { GatsbyNode } from "gatsby"
 import path from "path"
 
-export const onCreateWebpackConfig: GatsbyNode["onCreateWebpackConfig"] = ({
-  actions,
-  stage,
-}) => {
-  if (stage === "build-javascript" || stage === "build-html") {
-    actions.setWebpackConfig({
-      output: {
-        filename: `assets/js/[name]-[contenthash].js`,
-        chunkFilename: `assets/js/[name]-[contenthash].js`,
-        publicPath: "/",
-      },
-    })
-  }
-}
-
 export const onPostBuild: GatsbyNode["onPostBuild"] = async () => {
   const fs = require("fs-extra")
   const glob = require("glob")
   
+  console.log("Starting JS file organization to assets/js...")
+  
   // JSファイルをassets/jsに移動
   const jsFiles = glob.sync("public/*.js")
-  const jsMapFiles = glob.sync("public/*.js.map")
+  const jsMapFiles = glob.sync("public/*.js.map")  
   const licenseFiles = glob.sync("public/*.js.LICENSE.txt")
+  
+  const allFiles = [...jsFiles, ...jsMapFiles, ...licenseFiles]
+  
+  if (allFiles.length === 0) {
+    console.log("No JS files found in public root to move")
+    return
+  }
   
   // assets/jsディレクトリを作成
   await fs.ensureDir("public/assets/js")
   
-  // JSファイルを移動
-  for (const file of [...jsFiles, ...jsMapFiles, ...licenseFiles]) {
+  // ファイルを移動（存在する場合は上書き）
+  for (const file of allFiles) {
     const fileName = path.basename(file)
     const targetPath = `public/assets/js/${fileName}`
-    await fs.move(file, targetPath)
+    
+    try {
+      // 既に存在する場合は削除してから移動
+      if (await fs.pathExists(targetPath)) {
+        await fs.remove(targetPath)
+      }
+      await fs.move(file, targetPath)
+      console.log(`Moved: ${fileName} -> assets/js/`)
+    } catch (error) {
+      console.warn(`Failed to move ${fileName}:`, error.message)
+    }
   }
   
-  // HTMLファイル内のパスを更新
+  // HTMLファイル内のパスを更新  
   const htmlFiles = glob.sync("public/**/*.html")
   for (const htmlFile of htmlFiles) {
     let content = await fs.readFile(htmlFile, "utf8")
-    // JSファイルのパスを /assets/js/ に更新（既に /assets/js/ が含まれている場合は除く）
-    content = content.replace(/src="\/(?!assets\/js\/)([^\/\s"']*\.js)"/g, 'src="/assets/js/$1"')
-    content = content.replace(/\/([^\/\s"']*\.js(?:\.map|\.LICENSE\.txt)?)"/g, "/assets/js/$1\"")
-    await fs.writeFile(htmlFile, content)
+    let originalContent = content
+    
+    // JSファイルのパスを /assets/js/ に更新
+    content = content.replace(/src="\/([^\/\s"']+\.js)"/g, (match, filename) => {
+      if (filename.startsWith('assets/js/')) return match
+      return `src="/assets/js/${filename}"`
+    })
+    
+    // その他のJS関連ファイルのパスも更新
+    content = content.replace(/"\/([^\/\s"']+\.js(?:\.map|\.LICENSE\.txt)?)"/g, (match, filename) => {
+      if (filename.startsWith('assets/js/')) return match  
+      return `"/assets/js/${filename}"`
+    })
+    
+    if (content !== originalContent) {
+      await fs.writeFile(htmlFile, content)
+      console.log(`Updated HTML references in: ${path.relative('public', htmlFile)}`)
+    }
   }
+  
+  console.log("JS file organization completed!")
 }
