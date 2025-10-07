@@ -26,7 +26,7 @@ const codeStyles = {
 const NotFoundPage: React.FC<PageProps> = () => {
   return (
     <main style={pageStyles}>
-      <h1 style={headingStyles}>404 Page not found</h1>
+      <h1 style={headingStyles}>ozawa 404 Page not found</h1>
       <p style={paragraphStyles}>
         Sorry 😔, we couldn’t find what you were looking for.
         <br />
