@@ -42,7 +42,7 @@ const AboutPage: React.FC<PageProps> = () => {
     <main style={pageStyles}>
       <h1 style={headingStyles}>
         About{" "}
-        <span style={headingAccentStyles}>About ページ</span>
+        <span style={headingAccentStyles}>About ページ !!</span>
       </h1>
       
       <section style={sectionStyles}>

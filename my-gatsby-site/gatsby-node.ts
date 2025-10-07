@@ -24,24 +24,42 @@ export const onPostBuild: GatsbyNode["onPostBuild"] = async () => {
   
   // ファイルを移動（存在する場合は上書き）
   for (const file of allFiles) {
-    const fileName = path.basename(file)
-    const targetPath = `public/assets/js/${fileName}`
-    
     try {
+      // ファイルかどうかを確認
+      const stat = await fs.stat(file)
+      if (!stat.isFile()) {
+        console.log(`Skipping non-file: ${file}`)
+        continue
+      }
+      
+      const fileName = path.basename(file)
+      const targetPath = `public/assets/js/${fileName}`
+      
       // 既に存在する場合は削除してから移動
       if (await fs.pathExists(targetPath)) {
-        await fs.remove(targetPath)
+        const targetStat = await fs.stat(targetPath)
+        if (targetStat.isFile()) {
+          await fs.remove(targetPath)
+        }
       }
+      
       await fs.move(file, targetPath)
       console.log(`Moved: ${fileName} -> assets/js/`)
     } catch (error) {
-      console.warn(`Failed to move ${fileName}:`, error.message)
+      console.warn(`Failed to move ${path.basename(file)}:`, error.message)
     }
   }
   
   // HTMLファイル内のパスを更新  
   const htmlFiles = glob.sync("public/**/*.html")
   for (const htmlFile of htmlFiles) {
+    // ファイルかどうかを確認
+    const stat = await fs.stat(htmlFile)
+    if (!stat.isFile()) {
+      console.log(`Skipping non-file: ${htmlFile}`)
+      continue
+    }
+    
     let content = await fs.readFile(htmlFile, "utf8")
     let originalContent = content
     
